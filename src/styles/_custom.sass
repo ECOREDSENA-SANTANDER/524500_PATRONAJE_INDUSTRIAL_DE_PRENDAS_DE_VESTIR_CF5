@@ -83,14 +83,17 @@
   background-color: #D1BCFF
   transform: rotate(90deg);
   left: 15px;
+  color: white
 
 .slyder-a__tipo-b .slyder-a__btn--sigt
   background-color: #D1BCFF
   transform: rotate(-90deg)
   right: 15px
+  color: white
 
 .slyder-a__btn--sigt, .slyder-a__btn--atrs  
   border: none
+  color: white
 
 .slyder-a__bullets__item--active
   background-color: #8C5BE1 !important
@@ -98,7 +101,11 @@
 
 .slyder-a__bullets__item
   background-color: #AFAFAF
-    
+
+.estilo1.slyder-a__tipo-b
+  background-color: white
+  color: #D1BCFF
+
 /// tabla
 
 .tabla-c 
@@ -117,4 +124,50 @@
 .lista-ul--color li > i:first-of-type 
     color: #673AB7 !important
     font-size: 22px
+
+// Banner interno - subtitulo
+
+.banner-interno__fondo    
+  background-image: url("../assets/curso/temas/mini-portada.png") !important
+
+.bgimg100
+  background-image: url('../assets/curso/temas/tema1/imagen33.png');
+
+.subt
+  img
+    width: 23px
+  h3
+    color: #673AB7
+  &::after   
+    content: ""
+    display: block
+    height: 3px
+    width: 110px
+    background-color: #673AB7
+
+// borde amarillo
+
+.estilo1
+  margin-bottom: 24px;
+  border-left: 2px solid;
+  padding: 5px 0 5px 15px;
+  border-left-color: #FFD54F
+
+// sangría viñeta
+
+.fa-ul
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
+
+.estilo100
+  background-color: #673AB7
+
+.estilo200
+  background-color: white
+  padding: 5px
 

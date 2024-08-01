@@ -9,12 +9,15 @@
           i.fas.fa-info
       h1 Introducción
 
-    .row
-        .col-md-7.p-5
-          p En la actualidad,  el sector confección, diseño y moda está haciendo la transición a nivel país en la preparación y capacitación de mano de obra calificada y tecnología versátil que aporte al estándar competitivo internacional, con la que busca dar una respuesta rápida y eficaz a las exigencias del mercado; en este aspecto el patronista juega un papel fundamental, pues debe estar preparado para interpretar los bocetos, sketch y diseños asignados por el diseñador, cumpliendo a cabalidad con los procesos de producción o prototipado necesarios.   
-        .col-md-5.align-items-center
-          img(src='@/assets/curso/temas/introduccion/imagen1.svg', alt='Modisto en un taller')
-    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        p En el siguiente video, se presenta la introducción a este componente, al explorarlo, el aprendiz conocerá de antemano los temas que se trabajarán.   
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Video: Leyenda del video
+
+
 </template>
 
 <script>
