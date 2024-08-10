@@ -82,10 +82,10 @@
               .titulo-sexto.color-secundario
                 h5 Figura 29.
                 span
-                  | XXXX
+                  | Ropa interior del medioevo
               img(src='@/assets/curso/temas/tema2/tarjeta1/imagen4.svg', alt="XXXXX")
 
-    .row.mt-5.mb-3.justify-content-center.align-items-center
+    .row.mt-5.mb-5.justify-content-center.align-items-center
       h3 Generalidades para identificar la talla del brasier
 
     .subt(data-aos="fade-right")
@@ -93,7 +93,7 @@
         img(src='@/assets/curso/temas/subt.svg', alt='')
         h3.mb-0.ms-2 ¿Cómo conocer la talla correcta?
     p.mt-3 Es una concepción un poco ilógica pensar en el hecho de que al ser mujeres no se cuente con la posibilidad de sentirse cómodas; que los senos deben adaptarse a cualquier producto encontrado en el mercado, caso contrario es aceptar que “el brasier debe adaptarse al busto”.
-    p.mb-3 Parece ser una fortuna cuando por casualidad una mujer se encuentra con un brasier que cumpla las siguientes condiciones: que no talle, que no se suba de contorno, que las tiras no se caigan y que no marquen, o que el aro no se marque en la piel y además que no se marque en el escote.
+    p.mb-5 Parece ser una fortuna cuando por casualidad una mujer se encuentra con un brasier que cumpla las siguientes condiciones: que no talle, que no se suba de contorno, que las tiras no se caigan y que no marquen, o que el aro no se marque en la piel y además que no se marque en el escote.
 
     .subt(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
@@ -103,72 +103,69 @@
       
     .row.align-items-center.justify-content-center
       .col-md-4
-        .bloque-texto-c.color-acento-contenido.borde-redondo.p-4
+        .bloque-texto-c.color-acento-contenido.estilo300.p-2
           .row.align-items-center.justify-content-center
-            .col-10
-              img(src='@/assets/curso/temas/tema2/tarjeta2/imagen1.svg')
-          .row.align-items-center.justify-content-center
-            <br>
-          .row.align-items-center.justify-content-center
+            .col-8
+              img.mt-3(src='@/assets/curso/temas/tema2/tarjeta2/imagen1.svg')
+          .row.align-items-center.justify-content-center.mt-3
             .col-4  
               p.text-center.borde-redondo(style='background-color: white') <strong>Pera:</strong>
           .row.align-items-center.justify-content-center
-            p.text-center Aquel busto que tiene peso en su parte inferior y necesita ser levantado y sujetado.
-          <br> <br>
+            p.text-center.mb-5 Aquel busto que tiene peso en su parte inferior y necesita ser levantado y sujetado.
       .col-md-4
-        .bloque-texto-c.color-acento-contenido.borde-redondo.p-4
+        .bloque-texto-c.color-acento-contenido.estilo300.p-2
           .row.align-items-center.justify-content-center
-            .col-10
-              img(src='@/assets/curso/temas/tema2/tarjeta2/imagen2.svg')
-          .row.align-items-center.justify-content-center
-            <br>
-          .row.align-items-center.justify-content-center
+            .col-8
+              img.mt-3(src='@/assets/curso/temas/tema2/tarjeta2/imagen2.svg')
+          .row.align-items-center.justify-content-center.mt-3
             .col-4  
               p.text-center.borde-redondo(style='background-color: white') <strong>Cónico:</strong>
-          .row.align-items-center.justify-content-center
+          .row.align-items-center.justify-content-center.mb-2
               p.text-center Generalmente este busto también es un poco desviado hacia los costados y levantado en su parte superior, requiere prendas que lo junten y realcen.
       .col-md-4
-        .bloque-texto-c.color-acento-contenido.borde-redondo.p-4
+        .bloque-texto-c.color-acento-contenido.estilo300.p-2
           .row.align-items-center.justify-content-center
-            .col-10
-              img(src='@/assets/curso/temas/tema2/tarjeta2/imagen3.svg')
-          .row.align-items-center.justify-content-center
-            <br>
-          .row.align-items-center.justify-content-center
+            .col-8
+              img.mt-3(src='@/assets/curso/temas/tema2/tarjeta2/imagen3.svg')
+          .row.align-items-center.justify-content-center.mt-3
             .col-4  
               p.text-center.borde-redondo(style='background-color: white') <strong>Redondo: </strong>
           .row.align-items-center.justify-content-center
-            p.text-center Aquellas a quienes envidiablemente les queda bien todos los brasieres que se colocan, su realce es natural con cualquier horma y lucen siempre un lindo escote.
+            p.text-center.mb-0 Aquellas a quienes envidiablemente les queda bien todos los brasieres que se colocan, su realce es natural con cualquier horma y lucen siempre un lindo escote.
     .row.borde-redondo(style='background-color: #673AB7')
-      h3.p-3.text-center(style='color: white') <strong>Para cada forma de busto existen recomendaciones para la silueta de brasier:</strong>
+      .col-lg-12
+        h4.text-center.mt-3.mb-3.p-2(style='color: white') <strong>Para cada forma de busto existen recomendaciones para la silueta de brasier:</strong>
     .row.align-items-center.justify-content-center
       .col-md-4
-        .bloque-texto-c.borde-redondo.color-acento-contenido.p-4
-          ul.lista-ul--color
-            li.mb-0 
-              i.lista-ul__vineta.mb-0
-              | <strong>Copa entera</strong>
-            li.mb-0 
-              i.lista-ul__vineta.mb-0
-              | <strong>Copa redonda</strong>
-            li.mb-0 
-              i.lista-ul__vineta.mb-0
-              | <em><strong>Push up</strong></em>
+        .bloque-texto-c.estilo400.color-acento-contenido.p-2
+          .row.align-items-center.justify-content-center
+            .col-6
+              ul.lista-ul--color.vmoradaclarapeq.fa-ul
+                li.mb-3 
+                  i.fas.fa-cookie
+                  span.mb-0 <strong>Copa entera</strong>
+                li.mb-3 
+                  i.fas.fa-cookie
+                  | <strong>Copa redonda</strong>
+                li.mb-3 
+                  i.fas.fa-cookie
+                  | <em><strong>Push up</strong></em>
       .col-md-4
-        .bloque-texto-c.borde-redondo.color-acento-contenido.p-4
-          ul.lista-ul--color
-            li.mb-0 
-              i.lista-ul__vineta.mb-0
-              | <strong>Copa redonda</strong>
-          <br> <br> <br>
+        .bloque-texto-c.estilo400.color-acento-contenido.p-2
+          .row.align-items-center.justify-content-center
+            .col-6
+              ul.lista-ul--color.vmoradaclarapeq.fa-ul.mb-5.mt-5
+                li.mb-0 
+                  i.fas.fa-cookie
+                  span.mb-0 <strong>Copa redonda</strong>
       .col-md-4
-        .bloque-texto-c.borde-redondo.color-acento-contenido.p-4
-          ul.lista-ul--color
-            li.mb-0 
-              i.lista-ul__vineta.mb-0
-              | <strong>Toda silueta</strong>
-          <br> <br> <br>
-          
+        .bloque-texto-c.estilo400.color-acento-contenido.p-2
+          .row.align-items-center.justify-content-center
+            .col-6
+              ul.lista-ul--color.vmoradaclarapeq.fa-ul.mb-5.mt-5
+                li.mb-0 
+                  i.fas.fa-cookie
+                  | <strong>Toda silueta</strong>
 
     .row.mb-4.mt-4
       .col-2
@@ -229,7 +226,7 @@
           span
             | Talla y medidas anatómicas
 
-        table.tabla-c
+        table.tabla-c.bredondo
           thead
             tr
               th TALLA
@@ -241,9 +238,9 @@
             tr
               td 
               td 
-              td A
-              td B
-              td C
+              td <strong>A</strong>
+              td <strong>B</strong>
+              td <strong>C</strong>
             tr
               td 32
               td 68 - 72
@@ -299,24 +296,24 @@
       .col-3
         img(src='@/assets/curso/temas/tema2/imagen8.svg')
       .col-3
-         ul.lista-ul--color
-            li.mb-0 
-              i.lista-ul__vineta.mb-0
+         ul.lista-ul--color.vmoradaclarapeq.fa-ul
+            li.mb-2 
+              i.fas.fa-cookie
               | <strong>Escote: 17 cm</strong>
-            li.mb-0 
-              i.lista-ul__vineta.mb-0
+            li.mb-2 
+              i.fas.fa-cookie
               | <strong>Sisa / espalda: 25 cm</strong>
-            li.mb-0 
-              i.lista-ul__vineta.mb-0
+            li.mb-2 
+              i.fas.fa-cookie
               | <strong>Recorrido de aro: 21.5 c</strong>     
-            li.mb-0 
-              i.lista-ul__vineta.mb-0
+            li.mb-2 
+              i.fas.fa-cookie
               | <strong>Contorno o base total: 64 cm</strong>
-            li.mb-0 
-              i.lista-ul__vineta.mb-0
+            li.mb-2 
+              i.fas.fa-cookie
               | <strong>Tiranta: 42 cm</strong>            
-            li.mb-0 
-              i.lista-ul__vineta.mb-0
+            li.mb-2 
+              i.fas.fa-cookie
               | <strong>Varilla lateral: 11 cm</strong>
       
     .row.mb-4.mt-4
@@ -327,126 +324,112 @@
         img(src='@/assets/curso/temas/subt.svg', alt='')
         h3.mb-0.ms-2 Siluetas de brasier
 
-    .tarjeta.tarjeta--azul.mt-4.mb-4(style='background-color: #FFF9E5').p-4
-      SlyderA(tipo="b")
-        .row.justify-content-center.align-items-center.my-lg-4
-          p.text-center.p-3 <strong>Siluetas de brasier</strong>
-          .col-4
-            p <strong>Strapless</strong>
-            p Es un brasier de cotilla amplia que brinda una excelente sujeción, sus copas tienen la profundidad necesaria para albergar el busto sosteniéndolo totalmente y ofreciendo el beneficio de no utilizar tirantas, se le puede adicionar elástico siliconado para ayudar la sujeción en sisas o escote, incluso en el contorno, generalmente lleva varillas laterales.
-          .col-4.p-5
-            figure
-              img(src='@/assets/curso/temas/tema2/tarjeta4/imagen1.svg')
-        .row.justify-content-center.align-items-center.my-lg-4
-          p.text-center.p-3 <strong>Siluetas de brasier</strong>
-          .col-4
-            p <strong>Balconet</strong>
-            p Brasier con corte vertical con adición de detalles que embellecen la prenda, como bordados, guipures y tiras con adornos; el corte vertical puede subdividirse en varios cortes y llevar sesgos de terciopelos e incluso varillas en su recorrido de altura de copa.
-          .col-4.p-5
-            figure
-              img(src='@/assets/curso/temas/tema2/tarjeta4/imagen2.svg')
-        .row.justify-content-center.align-items-center.my-lg-4
-          p.text-center.p-3 <strong>Siluetas de brasier</strong>
-          .col-4
-            p <strong>Push-up</strong>
-            p Brasier con corte tanto diagonal como inferior para lograr dar profundidad y realce característicos de esta prenda, realza el centro del busto, es ultra escotado con adición de almohadillas para crear mayor realce.
-          .col-4.p-5
-            figure
-              img(src='@/assets/curso/temas/tema2/tarjeta4/imagen3.svg')
-        .row.justify-content-center.align-items-center.my-lg-4
-          p.text-center.p-3 <strong>Siluetas de brasier</strong>
-          .col-4
-            p <strong>Media copa </strong>
-            p Brasier de escote profundo que realza y centra el busto, puede ser con cotilla o con piezas independientes de centro y espalda, especial para busto con forma cónica, puesto que ayuda a ver redondo el busto. 
-          .col-4.p-5
-            figure
-              img(src='@/assets/curso/temas/tema2/tarjeta4/imagen4.svg')
-        .row.justify-content-center.align-items-center.my-lg-4
-          p.text-center.p-3 <strong>Siluetas de brasier</strong>
-          .col-4
-            p <strong>Copa entera</strong>
-            p Brasier que sostiene el busto completamente sin ser muy escotado, brindando absoluta comodidad y sujeción, ideal para un busto pesado, puede tener realce, ser prehormado o con corte. 
-          .col-4.p-5
-            figure
-              img(src='@/assets/curso/temas/tema2/tarjeta4/imagen5.svg')
+    AcordionA(tipo="b" clase-tarjeta="tarjeta bgamarillo").mt-5
+      .row.justify-content-center.align-items-center(titulo="<em>Straples</em>")
+        .col-md-8.mb-4.mb-md-0
+          p Es un brasier de cotilla amplia que brinda una excelente sujeción, sus copas tienen la profundidad necesaria para albergar el busto sosteniéndolo totalmente y ofreciendo el beneficio de no utilizar tirantas, se le puede adicionar elástico siliconado para ayudar la sujeción en sisas o escote, incluso en el contorno, generalmente lleva varillas laterales.
+        .col-md-3
+          img(src='@/assets/curso/temas/tema2/tarjeta4/imagen1.svg')
+      .row.justify-content-center.align-items-center(titulo="Copa entera")
+        .col-md-8.mb-4.mb-md-0
+          p Brasier que sostiene el busto completamente sin ser muy escotado, brindando absoluta comodidad y sujeción, ideal para un busto pesado, puede tener realce, ser prehormado o con corte. 
+        .col-md-3
+          img(src='@/assets/curso/temas/tema2/tarjeta4/imagen5.svg')
+      .row.justify-content-center.align-items-center(titulo="Media copa")
+        .col-md-8.mb-4.mb-md-0
+          p Brasier de escote profundo que realza y centra el busto, puede ser con cotilla o con piezas independientes de centro y espalda, especial para busto con forma cónica, puesto que ayuda a ver redondo el busto. 
+        .col-md-3
+          img(src='@/assets/curso/temas/tema2/tarjeta4/imagen4.svg')
+      .row.justify-content-center.align-items-center(titulo="<em>Push-up</em>")
+        .col-md-8.mb-4.mb-md-0
+          p Brasier de escote profundo que realza y centra el busto, puede ser con cotilla o con piezas independientes de centro y espalda, especial para busto con forma cónica, puesto que ayuda a ver redondo el busto. 
+        .col-md-3
+          img(src='@/assets/curso/temas/tema2/tarjeta4/imagen3.svg')
+      .row.justify-content-center.align-items-center(titulo="<em>Balconet</em>")
+        .col-md-8.mb-4.mb-md-0
+          p Brasier con corte vertical con adición de detalles que embellecen la prenda, como bordados, guipures y tiras con adornos; el corte vertical puede subdividirse en varios cortes y llevar sesgos de terciopelos e incluso varillas en su recorrido de altura de copa.
+        .col-md-3
+          img(src='@/assets/curso/temas/tema2/tarjeta4/imagen2.svg')
+      .row.justify-content-center.align-items-center(titulo="<em>Minimizer</em> y materno")
+        .col-md-8.mb-4.mb-md-0
+          p Brasier para sostener volúmenes de busto pesado, reduce el escote y mantiene cómodo el busto.
+        .col-md-3
+          img(src='@/assets/curso/temas/tema2/tarjeta4/imagen6.svg')
+      .row.justify-content-center.align-items-center(titulo="Materno")
+        .col-md-8.mb-4.mb-md-0
+          p Brasier para uso en período de lactancia con condiciones específicas de profundidad y servicio.
+        .col-md-3
+          img(src='@/assets/curso/temas/tema2/tarjeta4/imagen7.svg')
+    
+    .row.justify-content-center.align-items-center.bgmoradoclaro.borde-redondo.mb-5
+      p.text-center.mt-5 <strong> Otras siluetas de <em>lingerie</em> </strong>
+      .col-lg-12
+        SlyderF.bgmoradoclaro.borde-redondo.mb-3(columnas="col-lg-6 col-xl-4")
+          .tarjeta.tarjeta--slyder.p-4
+            .row.justify-content-center.mb-3
+              p.text-center <em>Teddy</em>
+              .col-12
+                img(src="@/assets/curso/temas/tema2/tarjeta5/imagen3.svg", alt="alt")
+              p.text-center.mb-0.mt-2 Combinación de panty y camisola en una sola pieza, es una prenda sensual en el vestuario femenino.
+          .tarjeta.tarjeta--slyder.p-4
+            .row.justify-content-center.mb-3
+              p.text-center <em>Body</em>
+              .col-12
+                img(src="@/assets/curso/temas/tema2/tarjeta5/imagen4.svg", alt="alt")
+              p.text-center.mb-0.mt-2 Prenda de lencería de una sola pieza, diseñados para aportar comodidad, elegancia y sensualidad a la mujer.
+          .tarjeta.tarjeta--slyder.p-4
+            .row.justify-content-center.mb-3
+              p.text-center <em>Bralette</em>
+              .col-12
+                img(src="@/assets/curso/temas/tema2/tarjeta5/imagen5.svg", alt="alt")
+              p.text-center.mb-0.mt-2 Sujetador con tirantes delgados, sin aros ni relleno que a menudo está hecho de telas finas como encaje o una mezcla de algodón.
+          .tarjeta.tarjeta--slyder.p-4
+            .row.justify-content-center.mb-3
+              p.text-center <em>Corselette</em>
+              .col-12
+                img(src="@/assets/curso/temas/tema2/tarjeta5/imagen6.svg", alt="alt")
+              p.text-center.mb-0.mt-2 Prenda de lencería más o menos rígida que va del busto a la cintura, abrochado a la espalda mediante cinta en zigzag, o cierre y botones, confeccionado con tejidos suaves y finos para estilizar la figura femenina, definiendo la cintura y elevando el busto.
+          .tarjeta.tarjeta--slyder.p-4
+            .row.justify-content-center.mb-3
+              p.text-center <em>Bustier </em>
+              .col-12
+                img(src="@/assets/curso/temas/tema2/tarjeta5/imagen7.svg", alt="alt")
+              p.text-center.mb-0.mt-2 Prenda femenina que cubre del pecho hasta la cintura y perfila la forma del busto.
 
-
-    .tarjeta.tarjeta--azul.mt-4.mb-4(style='background-color: #D1BCFF').p-4
-      SlyderA(tipo="b")
-        .row.justify-content-center.align-items-center.my-lg-4
-          .col-4
-            p <strong>Minimizer y Materno</strong>
-            p Brasier para sostener volúmenes de busto pesado, reduce el escote y mantiene cómodo el busto.
-          .col-3
-            img(src='@/assets/curso/temas/tema2/tarjeta5/imagen1.svg')
-        .row.justify-content-center.align-items-center.my-lg-4
-          p.text-center.p-3 <strong>Otras siluetas de <em>lingerie</em></strong>
-          .col-4
-            p <strong>Materno</strong>
-            p Brasier para uso en período de lactancia con condiciones específicas de profundidad y servicio. 
-          .col-4.p-5
-            img(src='@/assets/curso/temas/tema2/tarjeta5/imagen2.svg')
-        .row.justify-content-center.align-items-center.my-lg-4
-          p.text-center.p-3 <strong>Otras siluetas de <em>lingerie</em></strong>
-          .col-3
-            p.text-center Teddy
-            img(src='@/assets/curso/temas/tema2/tarjeta5/imagen3.svg')
-            p.p-2.text-center.mb-0 Combinación de panty y camisola en una sola pieza, es una prenda sensual en el vestuario femenino.
-          .col-3
-            p.text-center Body 
-            img(src='@/assets/curso/temas/tema2/tarjeta5/imagen4.svg')
-            p.p-2.text-center.mb-0 Prenda de lencería de una sola pieza, diseñados para aportar comodidad, elegancia y sensualidad a la mujer.
-          .col-3
-            p.text-center Bralette 
-            img(src='@/assets/curso/temas/tema2/tarjeta5/imagen5.svg')
-            p.p-2.text-center.mb-0 Sujetador con tirantes delgados, sin aros ni relleno que a menudo está hecho de telas finas como encaje o una mezcla de algodón.
-        .row.justify-content-center.align-items-center.my-lg-4
-          p.text-center.p-3 <strong>Otras siluetas de <em>lingerie</em></strong>
-          .col-3
-            p.text-center Corselette
-            img(src='@/assets/curso/temas/tema2/tarjeta5/imagen6.svg')
-            p.p-2.text-center.mb-0 Prenda de lencería más o menos rígida que va del busto a la cintura, abrochado a la espalda mediante cinta en zigzag, o cierre y botones, confeccionado con tejidos suaves y finos para estilizar la figura femenina, definiendo la cintura y elevando el busto.
-          .col-3
-            p.text-center Bustier  
-            img(src='@/assets/curso/temas/tema2/tarjeta5/imagen7.svg')
-            p.p-2.text-center.mb-0 Prenda femenina que cubre del pecho hasta la cintura y perfila la forma del busto.
-            <br> <br> <br> <br> <br>
-
-    .tarjeta.tarjeta--azul.mt-4.mb-4(style='background-color: #F3F9FF').p-4
-      SlyderA(tipo="b")
-        .row.justify-content-center.align-items-center.my-lg-4
-          p.text-center <strong>Siluetas de pantis</strong>
-          .col-3
-            p.text-center Básico
-            br
-            br
-            img(src='@/assets/curso/temas/tema2/tarjeta6/imagen1.svg')
-            br
-            br
-            p.text-center Prenda de vestir íntima que cubre desde la cintura hasta la entrepierna
-          .col-1
-          .col-3
-            p.text-center Hipster
-            img(src='@/assets/curso/temas/tema2/tarjeta6/imagen2.svg')
-            br
-            p.text-center Estilo popular de ropa interior elegante y funcional.
-        .row.justify-content-center.align-items-center.my-lg-4
-          p.text-center.p-3 <strong>Siluetas de pantis</strong>
-          .col-3
-            p.text-center Cachetero
-            img(src='@/assets/curso/temas/tema2/tarjeta5/imagen3.svg')
-            br
-            p.p-2.text-center.mb-0 Combinación entre pantalón corto y bikini, con la capacidad de dar mas cubrimiento a la zona de las piernas y debajo de la cintura, al mismo tiempo que revela la zona de los glúteos
-          .col-3
-            p.text-center Boxer encaje 
-            img(src='@/assets/curso/temas/tema2/tarjeta5/imagen4.svg')
-            <br> <br>
-            p.p-2.text-center.mb-0 Lencería femenina cómoda que logra ajustarse al cuerpo, cubriendo cadera y piernas.
-          .col-3
-            p.text-center Tanga encaje
-            img(src='@/assets/curso/temas/tema2/tarjeta5/imagen5.svg')
-            <br> <br>
-            p.p-2.text-center.mb-0 Prenda de vestir que por delante cubre la zona genital y por detrás deja al descubierto.
+    .row.justify-content-center.align-items-center.mb-5
+      p.text-center <strong>Siluetas de pantis</strong>
+      .col-lg-12
+        SlyderF.custom.mb-5(columnas="col-lg-6 col-xl-4")
+          .tarjeta.tarjeta--slyder1.p-4
+            .row.justify-content-center.mb-3
+              p.text-center Básico
+              .col-12
+                img(src="@/assets/curso/temas/tema2/tarjeta6/imagen1.svg", alt="alt").img100.m-auto
+            p.text-center.mb-0 Prenda de vestir íntima que cubre desde la cintura hasta la entrepierna
+          .tarjeta.tarjeta--slyder1.p-4
+            .row.justify-content-center.mb-3
+              p.text-center <em>Hipster</em>
+              .col-12
+                img(src="@/assets/curso/temas/tema2/tarjeta6/imagen2.svg", alt="alt").img100.m-auto
+            p.text-center.mb-0 Estilo popular de ropa interior elegante y funcional.
+          .tarjeta.tarjeta--slyder1.p-4
+            .row.justify-content-center.mb-3
+              p.text-center Cachetero
+              .col-12
+                img(src="@/assets/curso/temas/tema2/tarjeta6/imagen3.svg", alt="alt").img100.m-auto
+            p.text-center.mb-0 Combinación entre pantalón corto y bikini, con la capacidad de dar mas cubrimiento a la zona de las piernas y debajo de la cintura, al mismo tiempo que revela la zona de los glúteos.
+          .tarjeta.tarjeta--slyder1.p-4
+            .row.justify-content-center.mb-3
+              p.text-center <em>Boxer</em> encaje 
+              .col-12
+                img(src="@/assets/curso/temas/tema2/tarjeta6/imagen4.svg", alt="alt").img100.m-auto
+            p.text-center.mb-0 Lencería femenina cómoda que logra ajustarse al cuerpo, cubriendo cadera y piernas.
+          .tarjeta.tarjeta--slyder1.p-4
+            .row.justify-content-center.mb-3
+              p.text-center Tanga encaje
+              .col-12
+                img(src="@/assets/curso/temas/tema2/tarjeta6/imagen5.svg", alt="alt").img100.m-auto
+            p.text-center.mb-0 Prenda de vestir que por delante cubre la zona genital y por detrás deja al descubierto.
     
     .row.justify-content-center.align-items-center.mb-4.mt-4
       .col-8
@@ -463,53 +446,52 @@
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center.my-lg-4
           .col-5.p-4
-            p <strong>Cadera = 96 cm elongación a descontar en contorno cadera 125%.</strong>
-            br
+            p.mb-0 <strong>Cadera = 96 cm elongación a descontar </strong>
+            p.mb-2 <strong>en contorno cadera 125%.</strong>
             p.mb-0 96cm/4 = (96cm contorno de cadera dividido en el número de piezas del patrón para realizar el descuento individual) = 24cm.
             p 24 (resultado del porcentaje) se divide en 4 (número de piezas del patrón) = 6cm.
             .row
               .col-5.borde-redondo(style='background-color: #D1BCFF') 
-                p.p-2 <strong>96cm – 125% = 24</strong>
+                p.p-2.mb-0.text-center <strong>96cm – 125% = 24</strong>
           .col-1
             img(src='@/assets/curso/temas/tema2/flecha.svg')
           .col-5.p-4
-            <br> <br> <br>
-            p 24cm (cuarto de cadera o 1⁄4 del patrón) se le restan los 6cm del resultado anterior y esto nos da el ancho del cuadro en el patrón, ya con los descuentos del porcentaje promedio para desarrollar el patrón específico base de todos los pantis a desarrollar.
+            p.mt-3 24cm (cuarto de cadera o 1⁄4 del patrón) se le restan los 6cm del resultado anterior y esto nos da el ancho del cuadro en el patrón, ya con los descuentos del porcentaje promedio para desarrollar el patrón específico base de todos los pantis a desarrollar.
             .row 
               .col-5.borde-redondo(style='background-color: #D1BCFF') 
-                p.p-2 <strong>24cm – 6cm = 18cm</strong>
+                p.p-2.mb-0 <strong>24cm – 6cm = 18cm</strong>
         .row.justify-content-center.align-items-center.my-lg-4
-          .col-5.p-4
+          .col-6.p-4
             p.mb-0 Medida para el cuarto del patrón con el descuento del porcentaje. Con esta medida se comenzarán a trazar los cuadrados con los que se desarrollarán los patrones en talla M.
-            p Los largos de los tiros son medidas estándar, teniendo en cuenta las siluetas de los pantis a trabajar utilizándose las siguientes medidas:
+            p.mt-3 Los largos de los tiros son medidas estándar, teniendo en cuenta las siluetas de los pantis a trabajar utilizándose las siguientes medidas:
             .row
-              .col-9.borde-redondo(style='background-color: #D1BCFF') 
-                p.p-2 <strong>Largo de tiro talla M = 26cm, como estándar de elongación se tiene el 20%</strong>
+              .col-8.borde-redondo(style='background-color: #D1BCFF') 
+                p.p-2.mb-0 <strong>Largo de tiro talla M = 26cm, como estándar de elongación se tiene el 20%</strong>
           .col-5.p-4
-            p Quedando la fórmula de la siguiente manera:
+            p.mb-0 Quedando la fórmula de la siguiente manera:
             p 26cm (largo de tiro talla M) – 20% (elongación de la tela, sentido a lo largo del tejido urdimbre) = 20.8 aproximándolo estandarizamos a 21cm como valor cerrado y vamos escalando según sea la necesidad de la prenda, 2cm hacia abajo y si es necesario hacia arriba.
             .row 
               .col-5.borde-redondo(style='background-color: #D1BCFF') 
-                p.p-2 <strong>26cm – 20% = 21cm</strong>
+                p.p-2.mb-0.text-center <strong>26cm – 20% = 21cm</strong>
         .row.justify-content-center.align-items-center.my-lg-4
           .col-4.p-4
             p <strong>Relación de altura de tiro</strong>
-            ul.lista-ul--color
+            ul.lista-ul--color.vmoradaclaramediana
               li.mb-0 
                 i.lista-ul__vineta.mb-0
-                | Cintura: 21 cm
+                span.mb-0 Cintura: 21 cm
               li.mb-0 
                 i.lista-ul__vineta.mb-0
-                | Cintura baja: 19 cm
+                span.mb-0 Cintura baja: 19 cm
               li.mb-0 
                 i.lista-ul__vineta.mb-0
-                | Semidescaderado 17 cm     
+                span.mb-0 Semidescaderado 17 cm     
               li.mb-0 
                 i.lista-ul__vineta.mb-0
-                | Descaderado 15 cm
+                span.mb-0 Descaderado 15 cm
               li.mb-0 
                 i.lista-ul__vineta.mb-0
-                | Ultradescaderado o pélvico 13 cm   
+                span.mb-0 Ultradescaderado o pélvico 13 cm   
           .col-4.p-4
             img(src='@/assets/curso/temas/tema2/tarjeta7/imagen1.svg')     
    
