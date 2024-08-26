@@ -38,7 +38,7 @@ export default {
           },
           {
             numero: '1.3',
-            titulo: 'Interpretación de chaqueta bomber',
+            titulo: 'Interpretación de chaqueta <em>bomber</em>',
             hash: 't_1_3',
           },
           {
@@ -69,7 +69,7 @@ export default {
           },
           {
             numero: '1.9',
-            titulo: 'Generalidades de manga kimona y ranglan ',
+            titulo: 'Generalidades de manga kimona y <em>ranglan</em> ',
             hash: 't_1_9',
           },
           {
@@ -98,17 +98,17 @@ export default {
           },
           {
             numero: '2.2',
-            titulo: 'Trazo de panti  culotte',
+            titulo: 'Trazo de panti <em>culotte</em>',
             hash: 't_2_2',
           },
           {
             numero: '2.3',
-            titulo: 'Hipster con encaje ',
+            titulo: '<em>Hipster</em> con encaje ',
             hash: 't_2_3',
           },
           {
             numero: '2.4',
-            titulo: 'Boxer encaje ',
+            titulo: '<em>Boxer</em> encaje ',
             hash: 't_2_4',
           },
           {
@@ -128,12 +128,12 @@ export default {
           },
           {
             numero: '2.8',
-            titulo: 'Brasier balconet con cotilla',
+            titulo: '<em>Brasier balconet</em> con cotilla',
             hash: 't_2_8',
           },
           {
             numero: '2.9',
-            titulo: 'Brallette',
+            titulo: '<em>Brallette</em>',
             hash: 't_2_9',
           },
           {
@@ -153,12 +153,12 @@ export default {
           },
           {
             numero: '2.13',
-            titulo: 'Interpretación hipsters ',
+            titulo: 'Interpretación <em>hipsters</em> ',
             hash: 't_2_13',
           },
           {
             numero: '2.14',
-            titulo: 'Boxer masculino ',
+            titulo: '<em>Boxer</em> masculino ',
             hash: 't_2_14',
           },
           {
@@ -173,7 +173,7 @@ export default {
           },
           {
             numero: '2.17',
-            titulo: 'Brasier altura de copa ',
+            titulo: '<em>Brasier</em> altura de copa ',
             hash: 't_2_17',
           },
           {
