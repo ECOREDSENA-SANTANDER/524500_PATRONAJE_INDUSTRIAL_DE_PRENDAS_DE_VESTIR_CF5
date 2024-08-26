@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Patronaje desarrollo de modelos',
+    componenteFormativo: 'Patronaje industrial de prendas de vestir',
     descripcionCurso:
-      'La transición y globalización en el sector moda se hace más exigente en cuanto a la exploración y comprensión en el desarrollo de las prendas, buscando mejoras en el ajuste, horma, confort, materiales y tecnología de punta, lo que permite que los productos comercializados por las empresas del sector moda y confección atiendan las necesidades y requerimientos de la industria. ',
+      'En la actualidad, el sector confección, diseño y moda está haciendo la transición a nivel país en la preparación y capacitación de mano de obra calificada y tecnología versátil que aporte al estándar competitivo internacional, con la que busca dar una respuesta rápida y eficaz a las exigencias del mercado; en este aspecto el patronista juega un papel fundamental, pues debe estar preparado para interpretar los bocetos, sketch y diseños asignados por el diseñador, cumpliendo a cabalidad con los procesos de producción o prototipado necesarios.',
     imagenBannerPrincipal: require('@/assets/curso/portada/imagen.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     // sin imagenes decorativas
@@ -87,7 +87,8 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Patronaje línea interior y deportiva (Software de patronaje)',
+        titulo:
+          'Patronaje línea interior y deportiva (<em> Software </em> de patronaje)',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -269,9 +270,9 @@ export default {
   },
   complementario: [
     {
-      tema: '',
+      tema: 'Instructivo del <em> software </em> Audaces',
       referencia:
-        'Uso básico – Software Audaces Recuperado de:  Material de formación - Equipo de desarrollo curricular Técnico en patronaje industrial de prendas de vestir - SENA CMTC',
+        'Uso básico – <em> Software </em> Audaces Recuperado de:  Material de formación - Equipo de desarrollo curricular Técnico en patronaje industrial de prendas de vestir - SENA CMTC',
       tipo: 'Instructivo',
       link:
         'https://drive.google.com/file/d/1K1RbndjT9lRZP_z8vi3TaGrb0pGDGgGv/view?usp=sharing',
@@ -279,41 +280,41 @@ export default {
     {
       tema: '',
       referencia:
-        'Uso básico – Software Audaces Recuperado de:  Material de formación - Equipo de desarrollo curricular Técnico en patronaje industrial de prendas de vestir - SENA CMTC',
+        'Uso básico – <em> Software </em> Audaces Recuperado de:  Material de formación - Equipo de desarrollo curricular Técnico en patronaje industrial de prendas de vestir - SENA CMTC',
       tipo: 'Instructivo',
       link:
         'https://drive.google.com/file/d/1uIrzNWyJqHY11Buo0z8YsKQXVe-Sx7Pz/view?usp=sharing',
     },
     {
-      tema: '',
+      tema: 'Confección de bóxer- ensamble piezas delantero y posterior',
       referencia:
         'Fernández, N. 31 de mayo 2020, Bóxer masculino parte 1 - delantero y posterior',
       tipo: 'Video',
       link: 'https://youtu.be/7qvKQ_GRFLs',
     },
     {
-      tema: '',
+      tema: 'Confección de bóxer- ensamble de piezas',
       referencia:
         'Fernández, N. 31 de mayo 2020, Bóxer masculino parte 2 - entrepierna y cargadera',
       tipo: 'Video',
       link: 'https://youtu.be/4xt64a5Yb7Y',
     },
     {
-      tema: '',
+      tema: 'Confección de bóxer- ensamble de piezas',
       referencia:
         'Fernández, N., 2 de junio 2020, Bóxer masculino parte 3 - aplicar la elongación ',
       tipo: 'Video',
       link: 'https://youtu.be/_KXJmtrPA5M',
     },
     {
-      tema: '',
+      tema: 'Confección de bóxer- ensamble de piezas',
       referencia:
         'Fernández, N., 2 de junio 2020, Bóxer masculino parte 4 - medir',
       tipo: 'Video',
       link: 'https://youtu.be/bWIBUwaquBk',
     },
     {
-      tema: '',
+      tema: 'Uso de prensatelas especiales',
       referencia: 'MSM CONFECCIONES, 07 de mayo, uso prensatelas especiales ',
       tipo: 'Video',
       link: 'https://youtu.be/rF-2wRyxFm0',
@@ -617,13 +618,13 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Johana Gómez',
-          cargo: 'Líder línea Santander',
-          centro: 'Regional Santander Centro Agroturístico',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo: 'Responsable del Ecosistema',
+          centro: 'Dirección General',
         },
         {
-          nombre: 'Carolina Jiménez Suescún',
-          cargo: 'Evaluador Instruccional',
+          nombre: 'Claudia Johana Gómez',
+          cargo: 'Responsable de Línea de Producción',
           centro: 'Regional Santander Centro Agroturístico',
         },
       ],
@@ -633,9 +634,26 @@ export default {
       autores: [
         {
           nombre: 'Lizeth Maritza Rodríguez Beltrán',
-          cargo: 'Instructora técnica',
+          cargo: 'Experta temática',
           centro:
             'Centro de Manufactura en Textil y Cuero - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Natalia Andrea Bueno Pizarro',
+          cargo: 'Diseñadora instruccional y evaluadora instruccional',
+          centro:
+            'Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Julia Isabel Roberto',
+          cargo: 'Diseñadora instruccional y evaluadora instruccional',
+          centro:
+            'Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Carolina Jiménez Suescún',
+          cargo: 'Evaluador instruccional',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -643,31 +661,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Natalia Andrea Bueno Pizarro',
-          cargo: 'Diseñadora y evaluadora instruccional',
-          centro:
-            'Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+          nombre: 'Julian Fernando Vanegas Vega',
+          cargo: 'Diseñador web',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Julia Isabel Roberto',
-          cargo: 'Diseñadora y evaluadora instruccional',
-          centro:
-            'Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+          nombre: 'Lucenith Pinilla Moreno',
+          cargo: 'Desarrollador Fullstack Junior',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'María Alejandra Vera Briceño',
+          cargo: 'Animadora y Productora Multimedia',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -675,24 +681,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Laura Paola Gelvez Manosalva',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: '	Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Jaime Hernan Tejada',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Margarita Marcela Medrano',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para Contenidos Inclusivos y Accesibles',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },

@@ -1,1 +1,1 @@
-module.exports = 'Patronaje desarrollo de modelos'
+module.exports = 'Patronaje industrial de prendas de vestir'
