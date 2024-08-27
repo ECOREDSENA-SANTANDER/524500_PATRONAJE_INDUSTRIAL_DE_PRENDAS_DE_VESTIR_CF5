@@ -28,9 +28,9 @@
                   h3.mb-0.ps-5 Anexo.
                   p.mb-0.ps-5 Tendencias
                 .col-sm-auto
-                  a.boton.boton--b.estilo100(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
-                    span(style="color: white") Descargar
-                    i.fas.fa-file-download(style="color: white")
+                  a.boton.boton--b.estilo100(href="https://youtube.com/embed/rF-2wRyxFm0" target="_blank")
+                    span(style="color: white") Ir al sitio
+                    i.fas.fa-video(style="color: white")
 
 
     Separador
@@ -94,7 +94,7 @@
 
     figure
       .video
-        iframe(width="560" height="315" src="https://youtu.be/embed/rF-2wRyxFm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://youtube.com/embed/rF-2wRyxFm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         
     .row.align-items-center.justify-content-center.mb-5.mt-4
       .col-lg-12
@@ -316,7 +316,7 @@
               p.mb-3 Consulta los siguientes videos para conocer más acerca del trazo de bolsillo de camisa.
               .col-sm-12.col-md-12.col-lg-9
                 .row
-                  a.boton.estilo100(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+                  a.boton.estilo100(href="https://youtu.be/Nu7OYw6XBj8" target="_blank")
                     span.text-bold(style="color: white") Complementario – 9 bolsillo de camisa 
                     i.fas.fa-video(style="color: white")
 

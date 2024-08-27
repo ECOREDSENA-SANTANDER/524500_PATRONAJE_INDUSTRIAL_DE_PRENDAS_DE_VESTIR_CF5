@@ -716,7 +716,7 @@
                   h3.mb-0.ps-5 Anexo.
                   p.mb-0.ps-5 Instructivo de Interfaz audaces
                 .col-sm-auto
-                  a.boton.boton--b.estilo100(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+                  a.boton.boton--b.estilo100(href="https://www.scribd.com/document/367907998/Manual-Audaces" target="_blank")
                     span(style="color: white") Descargar
                     i.fas.fa-file-download(style="color: white")
 
@@ -798,35 +798,22 @@
     p En el siguiente complemento encontrará algunos videos que ejemplifican el trazo del #[em bóxer] masculino con la entrega del paso a paso y metodología del trazo, se hará la exploración desde el manejo del #[em software]; sin embrago, se podrá trabajar esta misma explicación de manera manual.        
 
     .row.align-items-center.justify-content-center.mb-4.mt-4
-      .col-12
+      .col-10
         .tarjeta.actividad.p-3.color-acento-contenido
           .row.justify-content-center.align-items-center  
-            .col-10.col-md-6.col-lg-3
+            .col-sm-12.col-md-2.col-lg-2
               .row.justify-content-center.align-items-center
-                .col-6
+                .col-8
                   img(src='@/assets/curso/temas/tema3/video.png')
-            .col-sm-12.col-md-10.col-lg-4
-              h3.mt-2 Videos.
-              p.mb-3 Consulte los videos: trazo de #[em boxer] masculino.
-              .row.mb-3.justify-content-center.align-items-center 
-                .col-12
-                  .row.mb-3.justify-content-center.align-items-center
-                    a.boton.estilo100(href="https://youtu.be/7qvKQ_GRFLs" target="_blank")
-                      span.text-bold(style="color: white") Complementario - 1 Bóxer masculino parte 1                     
-                      i.fas.fa-video(style="color: white")
-                  .row.mb-3.justify-content-center.align-items-center
-                    a.boton.estilo100(href="https://www.youtube.com/_KXJmtrPA5M" target="_blank")
-                      span.text-bold(style="color: white") Complementario - 3 Bóxer masculino parte 3                 
-                      i.fas.fa-video(style="color: white")
-            .col-sm-12.col-md-10.col-lg-4.mt-5
-              .row.mb-3.ps-2.mt-4
-                a.boton.estilo100(href="https://www.youtube.com/4xt64a5Yb7Y" target="_blank")
-                  span.text-bold(style="color: white") Complementario - 2 Bóxer masculino parte 2
-                  i.fas.fa-video(style="color: white")
-              .row.mb-3.ps-2
-                a.boton.estilo100(href="https://www.youtube.com/bWIBUwaquBk" target="_blank")
-                  span.text-bold(style="color: white") Complementario - 4 Bóxer masculino parte 4                 
-                  i.fas.fa-video(style="color: white")
+            .col-sm-12.col-md-12.col-lg-8
+              .row.justify-content-center.align-items-center
+                .col.mb-3.mb-sm-0
+                  h3.mt-2 Anexo.
+                  p.mb-3 Bóxer de hombre, cómo hacerlo fácil y rápido: 
+                .col-sm-auto
+                  a.boton.estilo100(href="https://www.youtube.com/watch?v=Y3tyM2WTpZ0&t=11s" target="_blank")
+                    span.text-bold(style="color: white") Ir al enlace                  
+                    i.fas.fa-video(style="color: white")
 
     Separador
     .row.mt-4.mb-4
@@ -867,23 +854,6 @@
         h2 2.18 Copa corte vertical y horizontal
     p.mt-3 En el siguiente video encontrará el trazo de la base copa corte vertical y horizontal con la entrega del paso a paso y metodología del trazo, y se hará la exploración desde el manejo del #[em software]; sin embrago, se podrá trabajar esta misma explicación de manera manual.
     
-    .row.align-items-center.justify-content-center.mb-4.mt-4
-      .col-sm-12.col-md-9.col-lg-9
-        .tarjeta.actividad.p-3.color-acento-contenido
-          .row.justify-content-around.align-items-center      
-            .col-auto
-              figure
-                img(src='@/assets/curso/temas/tema2/pdf.png')
-            .col
-              .row.justify-content-center.align-items-center
-                .col.mb-3.mb-sm-0
-                  h3.mb-0.ps-5 Anexo.
-                  p.mb-0.ps-5 Guía para desarrollar #[em brasier] de corte horizontal
-                .col-sm-auto
-                  a.boton.boton--b.estilo100(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
-                    span(style="color: white") Descargar
-                    i.fas.fa-file-download(style="color: white")
-
     .row.mt-5.mb-5
       figure
         .video
