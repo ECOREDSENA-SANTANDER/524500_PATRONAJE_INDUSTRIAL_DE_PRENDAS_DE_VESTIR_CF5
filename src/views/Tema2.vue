@@ -37,13 +37,14 @@
         h3.mb-0.ms-2 Evolucionando a través del tiempo
     p.mt-3 La ropa interior era la única vestimenta que utilizaban los hombres. Definían esa parte de su cuerpo para protegerse de las inclemencias climáticas.
     p La lencería inicia principalmente su desarrollo en la antigua Grecia, Roma y Egipto, donde las mujeres empezaron a utilizar prendas que pretendían tapar sus zonas púdicas, para que los hombres las vieran con mayor respeto.
+    p Las coloraciones, telas, materiales y movimiento de los plises de cada túnica egipcia representaban el rango que se ocupaba en la sociedad.
 
     .tarjeta.tarjeta--azul.mt-4.mb-4(style='background-color: #FFF9E5').p-4
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center.my-lg-4
-          p.text-center.p-3 #[b Egipto ]
+          p.text-center #[b Egipto ]
           .col-sm-12.col-md-12.col-lg-8
-            p.text-center.p-3 Las coloraciones, telas, materiales y movimiento de los plises de cada túnica egipcia representaban el rango que se ocupaba en la sociedad.
+            p.text-center Zóster ceñidor era una banda larga de paño o lino que se ataban las mujeres en la cintura para resaltar su figura o feminidad. Fue signo de obscenidad, al rendirle culto al cuerpo exponían sus senos sin pudor, amamantaban y se cuidaban después de dar a luz para retornar a sus actividades sociales y deportivas.
           .row.justify-content-center.align-items-center
             .col.sm-12.col-md-10.col-lg-6
               .titulo-sexto.color-secundario
@@ -52,9 +53,9 @@
                   | Túnicas egipcias
               img(src='@/assets/curso/temas/tema2/tarjeta1/imagen1.svg', alt="La imagen presenta mujeres egipcias luciendo sus túnicas.")
         .row.justify-content-center.align-items-center.my-lg-4
-          p.text-center.p-3 #[b Grecia ]
+          p.text-center #[b Grecia ]
           .col-sm-12.col-md-12.col-lg-8
-            p.text-center.p-3  #[em Zóster  ]  ceñidor era una banda larga de paño o lino que se ataban las mujeres en la cintura para resaltar su figura o feminidad. Fue signo de obscenidad, al rendirle culto al cuerpo exponían sus senos sin pudor, amamantaban y se cuidaban después de dar a luz para retornar a sus actividades sociales y deportivas.
+            p.text-center  Las mujeres en la parte inferior utilizaban algo similar al #[em subligaculum] o calzoncillo masculino, su forma era muy parecida a las actuales bragas. Mastodeton era una especie de banda que aplastaba el busto.
           .row.justify-content-center.align-items-center
             .col.sm-12.col-md-10.col-lg-6
               .titulo-sexto.color-secundario
@@ -63,9 +64,9 @@
                   | Zóster ceñidor
               img(src='@/assets/curso/temas/tema2/tarjeta1/imagen2.svg', alt="La imagen presenta mujeres griegas vistiendo zóster ceñidor.")
         .row.justify-content-center.align-items-center.my-lg-4
-          p.text-center.p-3 #[b Roma ]
+          p.text-center #[b Roma ]
           .col-sm-12.col-md-12.col-lg-8
-            p.text-center.p-3 Las mujeres en la parte inferior utilizaban algo similar al  #[em subligaculum  ]  o calzoncillo masculino, su forma era muy parecida a las actuales bragas. Mastodeton era una especie de banda que aplastaba el busto.
+            p.text-center La ropa interior en la época clásica no solo cubría las partes más íntimas, sino que determinaban su estado civil y posición social.
           .row.justify-content-center.align-items-center
             .col.sm-12.col-md-10.col-lg-6
               .titulo-sexto.color-secundario
@@ -74,9 +75,9 @@
                   | Mujeres romanas en ropa interior
               img(src='@/assets/curso/temas/tema2/tarjeta1/imagen3.svg', alt="La imagen presenta mujeres romanas luciendo bragas de la época y mastodeton.")
         .row.justify-content-center.align-items-center.my-lg-4
-          p.text-center.p-3 #[b Medioevo ]
+          p.text-center #[b Medioevo ]
           .col-sm-12.col-md-12.col-lg-8
-            p.text-center.p-3 El Medioevo fue una época de experimentación de la ropa interior, camisolas y calzones; las bombachas fueron la base de esta vestimenta, imitación del calzón y la malla masculina en las mujeres.
+            p.text-center El Medioevo fue una época de experimentación de la ropa interior, camisolas y calzones; las bombachas fueron la base de esta vestimenta, imitación del calzón y la malla masculina en las mujeres.
           .row.justify-content-center.align-items-center
             .col.sm-12.col-md-10.col-lg-6
               .titulo-sexto.color-secundario
