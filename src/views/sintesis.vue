@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.png", alt="El diagrama presenta los diferentes procesos que se explican detalladamente dentro del componente, con trazos e interpretaciones de las prendas de vestir expuestas para cada proceso.")
+          img(src="@/assets/curso/temas/Sintesis.png", alt="El diagrama presenta los diferentes procesos que se explican detalladamente dentro del componente, con trazos e interpretaciones de las prendas de vestir expuestas para cada proceso.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
