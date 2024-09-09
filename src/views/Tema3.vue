@@ -85,10 +85,7 @@
                   | Chaqueta sastre femenina
               img.mb-3(src='@/assets/curso/temas/tema3/tarjeta1/imagen1.svg')
 
-    .subt(data-aos="fade-right")
-      .d-flex.align-items-center.mb-1
-        img(src='@/assets/curso/temas/subt.svg', alt='')
-        h3.mb-0.ms-2 Preparación de las piezas
+    h3 A. Preparación de las piezas
     p.mt-4 Dentro del proceso de ensamble, rutas operacionales y en algunas maquilas, antes de pasar al proceso operacional en las máquinas se hace un proceso de plantillado fusionado y prehormado, utilizando planchas industriales o equipos de fusionado,  con el fin de agilizar los procesos de producción o los tiempos de la operación, a nivel de producción se tiene una operaria encargada de hacer solo una operación, es decir, una sola persona se encarga de fusionar, otra se encarga de planchar y otra de marcar o plantillar bolsillos, pecheras y demás complementos de la prenda.   
     p.mb-4 Todas estas operaciones se realizan después del proceso de corte. 
 
@@ -351,7 +348,7 @@
     .row.mt-5
       p Coser el contorno del puño, dejando ½ cm de pestaña en la parte de arriba.
 
-    .row.mt-5.mb-5
+    .row.mt-3.mb-5
       .cajon.color-primario
         .row.justify-content-center.mt-3.mb-3
           .col-sm-12.col-md-12.col-lg-10
@@ -429,7 +426,7 @@
                     img(src="@/assets/curso/temas/tema3/tarjeta8/imagen6.svg")
 
 
-    .row.align-items-center.justify-content-center.mb-4.mt-4
+    .row.align-items-center.justify-content-center.mb-4.mt-5
       .col-lg-12
         .tarjeta.actividad.p-3.color-acento-contenido
           .row.justify-content-center.align-items-center      
@@ -481,7 +478,7 @@
                     img(src="@/assets/curso/temas/tema3/tarjeta9/imagen4.svg")
 
     
-    .row.align-items-center.justify-content-center.mb-4.mt-4
+    .row.align-items-center.justify-content-center.mb-4.mt-5
       .col-lg-12
         .tarjeta.actividad.p-3.color-acento-contenido
           .row.justify-content-center.align-items-center      
@@ -507,18 +504,13 @@
                       span.text-bold(style="color: white") Complementario – 13 Portañuela camisa 3.  
                       i.fas.fa-video(style="color: white")
 
-    .row.align-items-center.justify-content-center
-      .col-sm-12.col-md-12.col-lg-10
-        .bloque-texto-f__avatar
-          .bloque-texto-f__avatar__img
-            img(src='@/assets/curso/temas/tema3/Bavatar-morado.svg')
-        .bloque-texto.borde-redondo.pt-4.px-5.mb-5(style='background-color: #FFD54F') 
-          h3.text-center.mt-5 #[b Ensamble de camisa ]
-          .row.align-items-center.justify-content-center
-            .col-sm-12.col-md-7.col-lg-6
-              p Luego de tener cada una de las piezas por separado, es decir, preparadas, se inicia el ensamble de la camisa, se procede a unir para poder tener la prenda final.   
-            .col-8.col-md-5.col-lg-4
-              img(src='@/assets/curso/temas/tema3/imagen26.png')
+    
+    .row.align-items-center.justify-content-center.mt-5
+      .col-sm-12.col-md-7.col-lg-9
+        h3 B. Ensamble de camisa
+        p Luego de tener cada una de las piezas por separado, es decir, preparadas, se inicia el ensamble de la camisa, se procede a unir para poder tener la prenda final.   
+      .col-6.col-md-5.col-lg-3
+        img(src='@/assets/curso/temas/tema3/imagen26.png')
 
     
     .row.align-items-center.justify-content-center.mb-4.mt-4
@@ -542,8 +534,8 @@
     .row.mt-4.mb-4
       #t_3_2.titulo-segundo.color-primario
         h2 3.2 Ensamble de blusa femenina 
-    p En el desarrollo de la confección de la blusa femenina presenta en común varias operaciones con la camisa masculina, es importante analizarlas para relacionar el orden operacional, es decir, qué piezas la componen para unir mediante los tipos de costura acordes con las especificaciones técnicas de calidad, que en muchos casos pueden diferenciar una prenda masculina de una femenina. En esencia, se inicia por trabajar las operaciones de preparación en cuellos, puños, bolsillos y pechera, para luego unir el delantero y posterior, y finalmente realizar las operaciones de terminación, obteniendo la prenda terminada. 
-    h4.mt-5.mb-4.text-center Orden operacional de confección de blusa femenina
+      p En el desarrollo de la confección de la blusa femenina presenta en común varias operaciones con la camisa masculina, es importante analizarlas para relacionar el orden operacional, es decir, qué piezas la componen para unir mediante los tipos de costura acordes con las especificaciones técnicas de calidad, que en muchos casos pueden diferenciar una prenda masculina de una femenina. En esencia, se inicia por trabajar las operaciones de preparación en cuellos, puños, bolsillos y pechera, para luego unir el delantero y posterior, y finalmente realizar las operaciones de terminación, obteniendo la prenda terminada. 
+      h4.mt-5.mb-4.text-center Orden operacional de confección de blusa femenina
 
     .row.align-items-center.justify-content-center
       .col-sm-12.col-md-12.col-lg-5
@@ -588,7 +580,7 @@
               img.mb-5.mt-4(src='@/assets/curso/temas/tema3/imagen6.svg')
     
     .row.align-items-center.justify-content-center
-      h3.mb-4.mt-4 a. Preparación de las piezas
+      h3.mb-2.mt-4 A. Preparación de las piezas
       .col-sm-12.col-md-9.col-lg-9
         p Cuando se va a iniciar un proceso de confección lo primero que se debe tener en cuenta es calibrar las máquinas, a nivel general existen puntadas por pulgada (PPP) normalizadas o estandarizadas para ensamblar o confeccionar cada tipo de prenda, se debe tener en cuenta la información entregada en la ficha técnica, esto depende del material y el tipo de costura, se recomienda en esta prenda uso de 10 P.P.P, tanto en costuras internas como externas.
         p A nivel industrial existen diferentes formas de llevar a cabo un proceso y/o ruta operacional para la preparación y el ensamble de una prenda, en esta ocasión se dará la explicación general para ensamblar una blusa femenina con almilla, pinzas, bolsillo de parche, pechera o cruce de botonadura y cuello camisero.  
@@ -614,13 +606,11 @@
                     i.fas.fa-video(style="color: white")
 
     .row.align-items-center.justify-content-center
+      .col-sm-12.col-md-9.col-lg-9
+        h3.mt-5.mb-5 B. Ensamble de blusa femenina
+        p Luego de tener cada una de las piezas preparadas de la prenda que se va a confeccionar se procede a unir y ensamblar para poder tener la prenda final.
       .col-7.col-md-3.col-lg-3
         img(src='@/assets/curso/temas/tema3/imagen8.svg')
-      .col-sm-12.col-md-9.col-lg-9
-        h3.mt-5.mb-5 b. Ensamble de blusa femenina
-        p Luego de tener cada una de las piezas preparadas de la prenda que se va a confeccionar se procede a unir y ensamblar para poder tener la prenda final.
-
- 
  
     .row.align-items-center.justify-content-center.mb-4.mt-4
       .col-lg-12
@@ -643,8 +633,8 @@
     .row.mt-4.mb-4
       #t_3_3.titulo-segundo.color-primario
         h2 3.3 Ensamble de falda
-    p Dentro de las operaciones de inicio para la confección de una falda se debe analizar una de las operaciones críticas, esta operación es el sistema de cierre con cremallera. Además, es importante realizar el alistamiento de los recursos a necesitar: los hilos y sus características, la cremallera, las piezas cortadas en tela y entretela, las agujas, las guías y los demás elementos que aseguren el flujo de las operaciones.
-    p Para el desarrollo de la ruta operacional en confección de falda se inicia con las operaciones de preparación, luego se desarrolla el ensamble al unir el posterior y delantero por los costados o laterales, y finaliza con las operaciones de terminados como ojalar, botonar y planchar. 
+      p Dentro de las operaciones de inicio para la confección de una falda se debe analizar una de las operaciones críticas, esta operación es el sistema de cierre con cremallera. Además, es importante realizar el alistamiento de los recursos a necesitar: los hilos y sus características, la cremallera, las piezas cortadas en tela y entretela, las agujas, las guías y los demás elementos que aseguren el flujo de las operaciones.
+      p Para el desarrollo de la ruta operacional en confección de falda se inicia con las operaciones de preparación, luego se desarrolla el ensamble al unir el posterior y delantero por los costados o laterales, y finaliza con las operaciones de terminados como ojalar, botonar y planchar. 
 
     .row.mb-4.mt-5
       h3.text-center Orden operacional de falda
@@ -677,7 +667,7 @@
               img.mb-4(src='@/assets/curso/temas/tema3/imagen10.svg')
     
     .row.align-items-center.justify-content-center
-      h3.mt-5.mb-3 Preparación de las piezas
+      h3.mt-5.mb-3 A. Preparación de las piezas
       p Para iniciar la confección es importante tener las máquinas puestas a punto según las especificaciones de la ficha técnica, en cuanto a la calibración de la puntada, es decir, cuántas P.P.P se deben ajustar para utilizar, lo cual depende del material y tipo de costura, además revisar las tensiones y el ajuste de la máquina conforme el material a coser.
       p A nivel industrial como van avanzando las máquinas y las técnicas de confección se van presentando varios tipos de métodos para desarrollar una prenda, a continuación, se especifica una de ellas: 
 
@@ -746,15 +736,9 @@
                     span.text-bold(style="color: white") Complementario – cremallera invisible 
                     i.fas.fa-video(style="color: white")
 
-    .row.align-items-center.justify-content-center
-      .col-sm-12.col-md-12.col-lg-10
-        .bloque-texto-f__avatar
-          .bloque-texto-f__avatar__img
-            img(src='@/assets/curso/temas/tema3/Bavatar-amarillo.svg')
-        .bloque-texto.borde-redondo.pt-4.px-5.mb-5(style='background-color: #D1BCFF') 
-          h3.text-center.p-5.mb-0 #[b Ensamble de falda  ]
-          p.text-center Luego de tener cada una de las piezas preparadas de la prenda que se va a confeccionar, se procede a unir y ensamblar para poder tener la prenda final. 
-          br
+    .row.align-items-center.justify-content-center.mt-5
+      h3.mt-5 B. Ensamble de falda
+      p Luego de tener cada una de las piezas preparadas de la prenda que se va a confeccionar, se procede a unir y ensamblar para poder tener la prenda final. 
 
     .row.align-items-center.justify-content-center.mb-4.mt-4
       .col-lg-12
@@ -817,12 +801,14 @@
               img.mb-4(src='@/assets/curso/temas/tema3/imagen15.svg')
     
     .row.align-items-center.justify-content-center.mb-5
+      .col-sm-12.col-md-10.col-lg-10
+        h3 A. Preparación de las piezas
+        p Dentro del inicio de la confección las operaciones iniciales comprenden fusionar piezas como bolsillos, pretinas, además de marcaciones para ubicar bolsillos, las cuales aseguran la calidad del pantalón y aportan rendimiento en el proceso.  
       .col-5.col-md-2.col-lg-2
         img(src='@/assets/curso/temas/tema3/imagen16.svg')
-      .col-sm-12.col-md-10.col-lg-10
-        h3 Preparación de las piezas
-        p Dentro del inicio de la confección las operaciones iniciales comprenden fusionar piezas como bolsillos, pretinas, además de marcaciones para ubicar bolsillos, las cuales aseguran la calidad del pantalón y aportan rendimiento en el proceso.  
-  
+
+
+
     .row.mb-4.mt-4
       h3 a - Montaje de cierre, cremallera, corredera o  #[em zipper  ]  (aletilla y aletillón)
 
@@ -931,12 +917,12 @@
                     span.text-bold(style="color: white") Complementario – 7 ribete doble.
                     i.fas.fa-video(style="color: white")
 
-    .row.justify-content-center.align-items-center.mb-5.mt-4
-      .col-5.col-md-2.col-lg-2
-        img(src='@/assets/curso/temas/tema3/imagen23.svg')
-      .col-sm-12.col-md-10.col-lg-10
-        h3 Ensamble de pantalón
+    .row.justify-content-center.align-items-center.mb-5.mt-5
+      .col-sm-12.col-md-12.col-lg-10
+        h3.mt-5 B. Ensamble de pantalón
         p Luego de tener cada una de las piezas preparadas de la prenda a ensamblar se unen por costados y entrepiernas, y se termina con pegar la pretina y dobladillas de las botas.  
+      .col-6.col-md-5.col-lg-2
+        img(src='@/assets/curso/temas/tema3/imagen23.svg')
 
 
     Separador
@@ -949,34 +935,22 @@
       .col-5.col-md-5.col-lg-3
         img(src='@/assets/curso/temas/tema3/imagen22.png')
 
-    .row.mb-4.mt-4
-      h3.text-center Orden operacional de confección de pantalón femenino
+    .row.mb-2.mt-4
+      h3 Orden operacional de confección de pantalón femenino
 
     .row.align-items-center.justify-content-center
-      .col-sm-12.col-md-12.col-lg-8
-        .bloque-texto-f__avatar
-          .bloque-texto-f__avatar__img
-            img(src='@/assets/curso/temas/tema3/Aavatar-amarillo.svg')
-        .bloque-texto.borde-redondo.pt-4.px-5.mb-5(style='background-color: #D1BCFF') 
-          .row.align-items-center.justify-content-center
-            .col-sm-12.col-md-12.col-lg-7
-              h3.mt-4.mb-4 Preparación de las piezas
-              p.mb-4 En el análisis de las operaciones se debe contemplar el análisis del método de las operaciones para tener el método más adecuado para la prenda, en general las operaciones manuales como fusionados, planchados o marcaciones de bolsillo encabezan la lista para el arranque de la confección del pantalón, también se incluyen las operaciones de pegar bolsillos y cerrar pretina, en dado caso se incluye la preparación de pasadores.
-            .col-10.col-md-5.col-lg-4
-              img(src='@/assets/curso/temas/tema3/imagen27.png')
+      .col-sm-12.col-md-12.col-lg-10
+        h3.mt-4.mb-4 A. Preparación de las piezas
+        p.mb-4 En el análisis de las operaciones se debe contemplar el análisis del método de las operaciones para tener el método más adecuado para la prenda, en general las operaciones manuales como fusionados, planchados o marcaciones de bolsillo encabezan la lista para el arranque de la confección del pantalón, también se incluyen las operaciones de pegar bolsillos y cerrar pretina, en dado caso se incluye la preparación de pasadores.
+      .col-6.col-md-5.col-lg-2
+        img(src='@/assets/curso/temas/tema3/imagen27.png')
 
     .row.align-items-center.justify-content-center
-      .col-sm-12.col-md-12.col-lg-8
-        .bloque-texto-f__avatar
-          .bloque-texto-f__avatar__img
-            img(src='@/assets/curso/temas/tema3/Bavatar-amarillo.svg')
-        .bloque-texto.borde-redondo.pt-4.px-5.mb-5(style='background-color: #D1BCFF') 
-          .row.align-items-center.justify-content-center
-            .col-sm-12.col-md-12.col-lg-7
-              h3.mt-4.mb-4 Ensamble de pantalón
-              p Luego de tener cada una de las piezas preparadas de la prenda que se va a confeccionar se procede a unir por entrepierna y costado para poder tener la prenda final.
-            .col-10.col-md-5.col-lg-4
-              img.mb-4(src='@/assets/curso/temas/tema3/imagen28.png')
+      .col-sm-12.col-md-12.col-lg-10
+        h3.mt-4.mb-4 B. Ensamble de pantalón
+        p Luego de tener cada una de las piezas preparadas de la prenda que se va a confeccionar se procede a unir por entrepierna y costado para poder tener la prenda final.
+      .col-6.col-md-5.col-lg-2
+        img.mb-4.mt-2(src='@/assets/curso/temas/tema3/imagen28.png')
 
     .row.align-items-center.justify-content-center.mb-4.mt-4
       .col-lg-12
@@ -1056,18 +1030,6 @@ export default {
         texto:
           'Pespuntar al borde o filo del pie de cuello, el pespunte se realiza a 1 /16” o 1/4 “o según especificaciones técnicas.',
         imagen: require('@/assets/curso/temas/tema3/tarjeta3/imagen8.svg'),
-        // leyendaImagen: 'Leyenda de la imagen',
-      },
-      {
-        titulo: 'Preparación del pie de cuello o banda:',
-        texto: ' ',
-        imagen: require('@/assets/curso/temas/tema3/tarjeta3/imagen9.svg'),
-        // leyendaImagen: 'Leyenda de la imagen',
-      },
-      {
-        titulo: 'Preparación del pie de cuello o banda:',
-        texto: ' ',
-        imagen: require('@/assets/curso/temas/tema3/tarjeta3/imagen10.svg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
     ],

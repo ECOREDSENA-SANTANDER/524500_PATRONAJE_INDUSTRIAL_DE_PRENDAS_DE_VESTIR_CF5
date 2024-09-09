@@ -183,7 +183,7 @@
     
     .row.mb-4.mt-4(style="border-bottom : solid 1px #E4E4E4")(data-aos="zoom-in-left")
 
-    .row.align-items-center.justify-content-center.mb-4.mt-4(data-aos="zoom-in-left") 
+    .row.align-items-center.justify-content-center.mb-5.mt-4(data-aos="zoom-in-left") 
       .col-6.col-md-6.col-lg-2
         img.p-3(src='@/assets/curso/temas/tema2/imagen6.svg')
       .col-sm-12.col-md-12.col-lg-10
@@ -199,11 +199,11 @@
       .col-md-3.borde-redondo
         img(src='@/assets/curso/temas/tema2/tarjeta3/imagen2.svg', alt="La imagen describe el paso a paso de la manera como se debe poner un brasier.")
       .col-md-3.borde-redondo
-        img(src='@/assets/curso/temas/tema2/tarjeta3/imagen3.svg', alt="La imagen describe el paso a paso de la manera como se debe poner un brasier.")
-      .col-md-3.borde-redondo
         img(src='@/assets/curso/temas/tema2/tarjeta3/imagen4.svg', alt="La imagen describe el paso a paso de la manera como se debe poner un brasier.")
+      .col-md-3.borde-redondo
+        img(src='@/assets/curso/temas/tema2/tarjeta3/imagen3.svg', alt="La imagen describe el paso a paso de la manera como se debe poner un brasier.")
 
-    h3.text-center.mt-4 Medidas anatómicas
+    h3.text-center.mt-5 Medidas anatómicas
     p.text-center Talla o contorno:
  
     .row.align-items-center.justify-content-center.mt-4.mb-4
@@ -247,13 +247,13 @@
               td 93 - 97
               td 98 - 102
             tr
-              td 
+              td 38
               td 83 - 87
               td 
               td 98 - 102
               td 103 - 107
 
-    h3.text-center.mt-4 Áreas a medir prenda terminada
+    h3.text-center.mt-5 Áreas a medir prenda terminada
     .row.align-items-center.justify-content-center.mb-4.mt-4(data-aos="zoom-in-left")
       .col-sm-12.col-md-12.col-lg-8
         .titulo-sexto.color-secundario
@@ -262,7 +262,7 @@
             | Áreas a medir prenda terminada
         img(src='@/assets/curso/temas/tema2/imagen7.svg', alt="La imagen señala las diferentes partes que se deben tener en cuenta para las medidas de un brasier: tirante, aros, escote, sisa, gafete, espalda, copa, cotilla,y contorno. ")
 
-    .row.mb-4.mt-4
+    .row.mb-4.mt-5
       .subt(data-aos="fade-right")
         .d-flex.align-items-center.mb-1
           img(src='@/assets/curso/temas/subt.svg', alt='')
