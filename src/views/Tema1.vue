@@ -262,7 +262,7 @@
       p.ps-3.mt-3.mb-5 Por esto, se recomienda desde el patronaje trabajar siempre la parte funcional de la prenda, dejando de lado la segmentación o el nombre comercial. 
 
     .row.mt-4.mb-4
-      p Las siguientes imágenes muestran el modelo de la prenda a desarrollar:
+      p Las siguientes imágenes presentan el modelo de la prenda a desarrollar:
     
     .row.mt-4.mb-4.align-items-center.justify-content-center(data-aos="zoom-in-left")
       .col-5
@@ -276,7 +276,7 @@
         .titulo-sexto.color-secundario
           h5 Figura 8.
           span
-            | Chaqueta sastre - 2 botones slim fit (ajustada)
+            | Chaqueta sastre - 2 botones #[em slim fit] (ajustada)
         img(src='@/assets/curso/temas/tema1/imagen13.svg', alt="La figura presenta un patrón de una chaqueta tipo sastre ajustada con dos botones.")
 
     .row.mt-4.mb-4
@@ -547,8 +547,12 @@
                 | Manga ranglán informal
             img(src='@/assets/curso/temas/tema1/tarjeta3/imagen4.png', alt='La figura presenta patrones de manga ranglán informal.')
         .row.justify-content-center.align-items-center.my-lg-4
-          h2.texto-morado-oscuro.text-center.mb-2 Manga #[em Ranglan] Informal
+          h2.texto-morado-oscuro.text-center.mb-2 Manga #[em Ranglan] Formal
           .col-9
+            .titulo-sexto.color-secundario
+              h5 Figura 20.
+              span
+                | Manga ranglán formal
             img(src='@/assets/curso/temas/tema1/tarjeta3/imagen5.png', alt='La figura presenta patronaje de manga ranglán formal.')
 
     .row.mt-5.mb-5
@@ -571,7 +575,7 @@
             .titulo-sexto.color-secundario
               h5 Figura 21.
               span
-                | Interpretación de prendas con manga kimona.
+                | Interpretación de prendas con manga kimona
             img(src='@/assets/curso/temas/tema1/tarjeta4/imagen1.svg', alt='La imagen presenta fotografías de prendas con  tipo de manga kimona.')
         .row.justify-content-center.align-items-center.my-lg-4
           .col-9

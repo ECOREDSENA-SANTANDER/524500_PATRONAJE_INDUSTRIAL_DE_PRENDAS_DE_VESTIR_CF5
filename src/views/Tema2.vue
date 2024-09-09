@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Patronaje línea interior y deportiva ( #[em Software  ]  de patronaje)
+      h1 Patronaje línea interior y deportiva (#[em Software] de patronaje)
 
     .row.align-items-center.justify-content-center
       .col-sm-12.col-md-12.col-lg-9
@@ -28,7 +28,7 @@
       .titulo-sexto.color-secundario
         h5 Figura 25.
         span
-          | Ropa interior en la antigüedada
+          | Ropa interior en la antigüedad
       img(src='@/assets/curso/temas/tema2/imagen2.svg', alt="La imagen presenta fotografías de cuerpos de hombres y mujeres cubriendo sus partes intimas con hojas. ")
 
     .subt(data-aos="fade-right")
@@ -84,7 +84,7 @@
                 h5 Figura 29.
                 span
                   | Ropa interior del medioevo
-              img(src='@/assets/curso/temas/tema2/tarjeta1/imagen4.svg', alt=" ")
+              img(src='@/assets/curso/temas/tema2/tarjeta1/imagen4.svg', alt="La imagen muestra que la ropa interior femenina evolucionó con camisolas, calzones y bombachas, inspiradas en el calzón y la malla masculina. -para no complicarnos jaja, que lo coloquen en el web.")
 
     .row.mt-5.mb-5.justify-content-center.align-items-center
       h3 Generalidades para identificar la talla del #[em brasier]
@@ -188,7 +188,7 @@
         img.p-3(src='@/assets/curso/temas/tema2/imagen6.svg')
       .col-sm-12.col-md-12.col-lg-10
         p #[b Copas ]
-        p El peso del busto se conoce como el volumen, para suplir la necesidad de diferencias en el volumen, que es una medida anatómica importante, se clasifican las copas
+        p El peso del busto se conoce como el volumen, para suplir la necesidad de diferencias en el volumen, que es una medida anatómica importante, se clasifican las copas.
         p.mb-0 ¿Cómo se clasifican las copas? 
         p.mb-0 Es normal que para cada volumen exista una copa diferente, desde el menor al mayor volumen, es decir, la AA pasando por la A – la B (que es la copa estándar), la C – la D – la DD – la E hasta llegar a la K, esto es un comparativo para que nos podamos imaginar los diferentes volúmenes de busto que existen.
     
@@ -352,7 +352,7 @@
               p.text-center  #[em Teddy  ] 
               .col-12
                 img(src="@/assets/curso/temas/tema2/tarjeta5/imagen3.svg", alt="alt")
-              p.text-center.mb-0.mt-2 Combinación de panty y camisola en una sola pieza, es una prenda sensual en el vestuario femenino.
+              p.text-center.mb-0.mt-2 Combinación de #[em panty] y camisola en una sola pieza, es una prenda sensual en el vestuario femenino.
           .tarjeta.tarjeta--slyder.p-4
             .row.justify-content-center.mb-3
               p.text-center  #[em Body  ] 
@@ -379,7 +379,7 @@
               p.text-center.mb-0.mt-2 Prenda femenina que cubre del pecho hasta la cintura y perfila la forma del busto.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
-      p.text-center #[b Siluetas de pantis ]
+      p.text-center #[b Siluetas de #[em panties] ]
       .col-lg-12
         SlyderF.custom.mb-5(columnas="col-lg-6 col-xl-4")
           .tarjeta.tarjeta--slyder1.p-4
@@ -387,7 +387,7 @@
               p.text-center Básico
               .col-12
                 img(src="@/assets/curso/temas/tema2/tarjeta6/imagen1.svg", alt="alt").img100.m-auto
-            p.text-center.mb-0 Prenda de vestir íntima que cubre desde la cintura hasta la entrepierna
+            p.text-center.mb-0 Prenda de vestir íntima que cubre desde la cintura hasta la entrepierna.
           .tarjeta.tarjeta--slyder1.p-4
             .row.justify-content-center.mb-3
               p.text-center  #[em Hipster  ] 
@@ -431,51 +431,51 @@
           .row.justify-content-center.align-items-center.my-lg-4
             .col-sm-12.col-md-12.col-lg-5
               p.mb-0.ps-4.mt-4 #[b Cadera = 96 cm elongación a descontar  ]
-              p.mb-2.ps-4 #[b en contorno cadera 125%. ]
-              p.mb-0.ps-4 96cm/4 = (96cm contorno de cadera dividido en el número de piezas del patrón para realizar el descuento individual) = 24cm.
-              p.ps-4 24 (resultado del porcentaje) se divide en 4 (número de piezas del patrón) = 6cm.
+              p.mb-2.ps-4 #[b en contorno cadera 125 %. ]
+              p.mb-0.ps-4 96 cm/4 = (96 cm contorno de cadera dividido en el número de piezas del patrón para realizar el descuento individual) = 24 cm.
+              p.ps-4 24 (resultado del porcentaje) se divide en 4 (número de piezas del patrón) = 6 cm.
               .row.ps-4
                 .col-5.borde-redondo(style='background-color: #D1BCFF') 
-                  p.p-2.mb-0.text-center #[b 96cm – 125% = 24 ]
+                  p.p-2.mb-0.text-center #[b 96 cm – 125 % = 24 ]
             .col-auto.d-none.d-lg-block
               img(src='@/assets/curso/temas/tema2/flecha.svg')
             .col-sm-12.col-md-12.col-lg-4
-              p.mt-5 24cm (cuarto de cadera o 1⁄4 del patrón) se le restan los 6cm del resultado anterior y esto nos da el ancho del cuadro en el patrón, ya con los descuentos del porcentaje promedio para desarrollar el patrón específico base de todos los pantis a desarrollar.
+              p.mt-5 24 cm (cuarto de cadera o 1⁄4 del patrón) se le restan los 6 cm del resultado anterior y esto nos da el ancho del cuadro en el patrón, ya con los descuentos del porcentaje promedio para desarrollar el patrón específico base de todos los #[em panties] a desarrollar.
               .row 
                 .col-8.borde-redondo(style='background-color: #D1BCFF') 
-                  p.p-2.mb-0.text-center #[b 24cm – 6cm = 18cm ]
+                  p.p-2.mb-0.text-center #[b 24 cm – 6 cm = 18 cm ]
           .row.justify-content-center.align-items-center.my-lg-4
             .col-sm-12.col-md-12.col-lg-6.p-4
               p.mb-0 Medida para el cuarto del patrón con el descuento del porcentaje. Con esta medida se comenzarán a trazar los cuadrados con los que se desarrollarán los patrones en talla M.
-              p.mt-3 Los largos de los tiros son medidas estándar, teniendo en cuenta las siluetas de los pantis a trabajar utilizándose las siguientes medidas:
+              p.mt-3 Los largos de los tiros son medidas estándar, teniendo en cuenta las siluetas de los #[em panties] a trabajar utilizándose las siguientes medidas:
               .row
                 .col-8.borde-redondo(style='background-color: #D1BCFF') 
-                  p.p-2.mb-0 #[b Largo de tiro talla M = 26cm, como estándar de elongación se tiene el 20% ]
+                  p.p-2.mb-0 #[b Largo de tiro talla M = 26 cm, como estándar de elongación se tiene el 20 % ]
             .col-sm-12.col-md-12.col-lg-5.p-4
               p.mb-0 Quedando la fórmula de la siguiente manera:
-              p 26cm (largo de tiro talla M) – 20% (elongación de la tela, sentido a lo largo del tejido urdimbre) = 20.8 aproximándolo estandarizamos a 21cm como valor cerrado y vamos escalando según sea la necesidad de la prenda, 2cm hacia abajo y si es necesario hacia arriba.
+              p 26 cm (largo de tiro talla M) – 20 % (elongación de la tela, sentido a lo largo del tejido urdimbre) = 20.8 aproximándolo estandarizamos a 21 cm como valor cerrado y vamos escalando según sea la necesidad de la prenda, 2 cm hacia abajo y si es necesario hacia arriba.
               .row 
-                .col-5.borde-redondo(style='background-color: #D1BCFF') 
-                  p.p-2.mb-0.text-center #[b 26cm – 20% = 21cm ]
+                .col-6.borde-redondo(style='background-color: #D1BCFF') 
+                  p.p-2.mb-0.text-center #[b 26 cm – 20 % = 21 cm ]
           .row.justify-content-center.align-items-center.my-lg-4
             .col-sm-12.col-md-12.col-lg-4.p-4
               p #[b Relación de altura de tiro ]
               ul.lista-ul--color.vmoradaclaramediana
                 li.mb-0 
                   i.lista-ul__vineta.mb-0
-                  span.mb-0 Cintura: 21 cm
+                  span.mb-0 Cintura: 21 cm.
                 li.mb-0 
                   i.lista-ul__vineta.mb-0
-                  span.mb-0 Cintura baja: 19 cm
+                  span.mb-0 Cintura baja: 19 cm.
                 li.mb-0 
                   i.lista-ul__vineta.mb-0
-                  span.mb-0 Semidescaderado 17 cm     
+                  span.mb-0 Semidescaderado 17 cm  .   
                 li.mb-0 
                   i.lista-ul__vineta.mb-0
-                  span.mb-0 Descaderado 15 cm
+                  span.mb-0 Descaderado 15 cm.
                 li.mb-0 
                   i.lista-ul__vineta.mb-0
-                  span.mb-0 Ultradescaderado o pélvico 13 cm   
+                  span.mb-0 Ultradescaderado o pélvico 13 cm.
             .col-sm-12.col-md-12.col-lg-4.p-4
               img(src='@/assets/curso/temas/tema2/tarjeta7/imagen1.svg')     
 
@@ -514,17 +514,17 @@
     Separador
     .row.mt-4.mb-4
       #t_2_2.titulo-segundo.color-primario
-        h2 2.2 Trazo de panti culotte 
-    p.text-center Para el desarrollo de panti culotte se trabajarán las siguientes imágenes de referencia. 
+        h2 2.2 Trazo de panti #[em culotte] 
+    p.text-center Para el desarrollo de panti #[em culotte] se trabajarán las siguientes imágenes de referencia. 
 
     .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
       .col-sm-12.col-md-10.col-lg-6
         .titulo-sexto.color-secundario
           h5 Figura 33. 
           span 
-            |Panti culotte
+            |Panti #[em culotte]
         img(src='@/assets/curso/temas/tema2/imagen11.svg', alt="Fotografía de mujer luciendo panti culotte.")
-    p.mt-5 En el siguiente vídeo encontrará el paso a paso con la explicación para el trazo manual del panti culotte. 
+    p.mt-5 En el siguiente vídeo encontrará el paso a paso con la explicación para el trazo manual del panti #[em culotte]. 
 
     .row.mt-5.mb-5
       figure
@@ -653,7 +653,7 @@
     .row.mt-4.mb-4
       #t_2_8.titulo-segundo.color-primario
         h2 2.8 #[em Brasier balconet] con cotilla 
-    p Para hacer el desarrollo del #[em brasier] se trabajan diferentes tipos de metodologías, en este caso se entrega el análisis y la interpretación general de un brasier con cotilla, sacando pieza por pieza cada uno de los elementos. 
+    p Para hacer el desarrollo del #[em brasier] se trabajan diferentes tipos de metodologías, en este caso se entrega el análisis y la interpretación general de un #[em brasier] con cotilla, sacando pieza por pieza cada uno de los elementos. 
     p.text-center Para el desarrollo del #[em brasier balconet] con cotilla se trabajará la siguiente imagen de referencia.
     
     .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
@@ -773,7 +773,7 @@
     Separador
     .row.mt-4.mb-4
       #t_2_12.titulo-segundo.color-primario
-        h2 2.12 Interpretación de pantis
+        h2 2.12 Interpretación de #[em panties]
     p.mt-3 En el siguiente video encontrará ejercicios sobre la modificación de la base o panti clásico con la misma metodología y teoría trabajada de manera manual, ahora en el manejo del #[em software].
     
     .row.mt-4.mb-4

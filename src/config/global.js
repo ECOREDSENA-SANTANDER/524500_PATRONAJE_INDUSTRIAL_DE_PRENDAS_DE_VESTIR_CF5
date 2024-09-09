@@ -88,7 +88,7 @@ export default {
         nombreRuta: 'tema2',
         numero: '2',
         titulo:
-          'Patronaje línea interior y deportiva (<em> Software </em> de patronaje)',
+          'Patronaje línea interior y deportiva (<em>Software</em> de patronaje)',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -153,22 +153,22 @@ export default {
           },
           {
             numero: '2.13',
-            titulo: 'Interpretación <em>hipsters</em> ',
+            titulo: 'Interpretación <em>hipsters</em>',
             hash: 't_2_13',
           },
           {
             numero: '2.14',
-            titulo: '<em>Boxer</em> masculino ',
+            titulo: '<em>Boxer</em> masculino',
             hash: 't_2_14',
           },
           {
             numero: '2.15',
-            titulo: 'Pantaloncillo masculino ',
+            titulo: 'Pantaloncillo masculino',
             hash: 't_2_15',
           },
           {
             numero: '2.16',
-            titulo: 'Base superior de ropa interior ',
+            titulo: 'Base superior de ropa interior',
             hash: 't_2_16',
           },
           {
@@ -183,7 +183,7 @@ export default {
           },
           {
             numero: '2.19',
-            titulo: 'Escalado brasier corte horizontal',
+            titulo: 'Escalado <em>brasier</em> corte horizontal',
             hash: 't_2_19',
           },
         ],
@@ -469,76 +469,76 @@ export default {
   ],
   glosario: [
     {
-      termino: 'ABERTURA',
+      termino: 'Abertura',
       significado:
         'Separación de las partes de algo, dejando al descubierto el interior, hendidura, agujero.',
     },
     {
-      termino: 'ACABADO',
+      termino: 'Acabado',
       significado:
         'Los diferentes sistemas industriales para perfeccionar un producto. El acabado en los tejidos comprende el blanqueado, teñido, encogido, estirado, estampado, satinado.',
     },
     {
-      termino: 'ASIMÉTRICO',
+      termino: 'Asimétrico',
       significado:
         'Que no guarda simetría o que carece de ella: figura asimétrica.',
     },
     {
-      termino: 'CANESÚ',
+      termino: 'Canesú',
       significado:
         'Pieza superior de la camisa o traje a la que se une el cuello, las mangas y el resto de la prenda.',
     },
     {
-      termino: 'CRUCE',
+      termino: 'Cruce',
       significado:
         'Pieza superior de la camisa o traje a la que se une el cuello, las mangas y el resto de la prenda.',
     },
     {
-      termino: 'DOBLADILLO',
+      termino: 'Dobladillo',
       significado: 'Pliegue o remate que se hace a la ropa en los bordes.',
     },
     {
-      termino: 'EJE DE SIMETRÍA',
+      termino: 'Eje de simetría',
       significado: 'Lo que divide una figura en dos partes iguales.',
     },
     {
-      termino: 'ENCARAR',
+      termino: 'Encarar',
       significado: 'Poner las telas derecho con derecho.',
     },
     {
-      termino: 'ENSAMBLE',
+      termino: 'Ensamble',
       significado:
         'Unir las piezas de una prenda según la secuencia operacional.',
     },
     {
-      termino: 'FICHA TÉCNICA',
+      termino: 'Ficha técnica',
       significado:
         'Documento controlado que contiene la información necesaria y pertinente sobre un producto. Se utiliza para determinar parámetros de diseño y estandarizar los lotes de producción.',
     },
     {
-      termino: 'FLOJO',
+      termino: 'Flojo',
       significado: 'Lo que sobra de la tela para embeber.',
     },
     {
-      termino: 'FRUNCIR',
+      termino: 'Fruncir',
       significado: 'Pliegue en arrugas pequeñas y paralelas.',
     },
     {
-      termino: 'FUSIONAR',
+      termino: 'Fusionar',
       significado: ' Unir por medio de calor.',
     },
     {
-      termino: 'OPERACIÓN EN CONFECCIÓN',
+      termino: 'Operación de confección',
       significado:
         ' Actividad o trabajo que permite agregarle valor y/o transformar un producto.',
     },
     {
-      termino: 'PESPUNTE',
+      termino: 'Pespunte',
       significado:
         'Costura que se efectúa mediante puntadas unidas, volviendo la aguja hacia atrás después.',
     },
     {
-      termino: 'SECUENCIA OPERACIONAL',
+      termino: 'Secuencia operacional',
       significado:
         'Conjunto de operaciones que en una forma ordenada conllevan a la elaboración de un producto (prenda de vestir). ',
     },

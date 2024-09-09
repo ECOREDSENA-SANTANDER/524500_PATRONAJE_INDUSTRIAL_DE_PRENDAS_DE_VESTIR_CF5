@@ -132,7 +132,7 @@
     .row.justify-content-center.align-items-center.mb-4.mt-4
       .col-10
         .cajon.color-primario.p-3
-          p.text-center Fusionar el cuello centrando las entretelas sobre la tela del cuello, dejando 1cm de margen de costura por contorno
+          p.text-center Fusionar el cuello centrando las entretelas sobre la tela del cuello, dejando 1cm de margen de costura por contorno.
 
     .tarjeta.tarjeta--azul.p-4.mt-4(style='background-color: #FFF9E5')
       SlyderA.estilo200(tipo="b")
@@ -1054,7 +1054,7 @@ export default {
       {
         titulo: 'Preparación del pie de cuello o banda:',
         texto:
-          'Pespuntar al borde o filo del pie de cuello, el pespunte se realiza a 1 /16” o 1/4 “o según especificaciones técnicas..',
+          'Pespuntar al borde o filo del pie de cuello, el pespunte se realiza a 1 /16” o 1/4 “o según especificaciones técnicas.',
         imagen: require('@/assets/curso/temas/tema3/tarjeta3/imagen8.svg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
