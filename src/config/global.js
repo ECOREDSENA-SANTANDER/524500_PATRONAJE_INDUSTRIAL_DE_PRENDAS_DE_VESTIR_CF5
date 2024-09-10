@@ -254,13 +254,13 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF5.pdf',
+        download: 'downloads/CF5_524500_DU.pdf',
       },
-      //{
-      //  icono: 'fas fa-download',
-      //  titulo: 'Descargar material',
-      //  download: 'downloads/material.zip',
-      //},
+      {
+        icono: 'fas fa-download',
+        titulo: 'Descargar material',
+        download: 'downloads/material.zip',
+      },
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -567,12 +567,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Claudia Johana Gómez',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro: 'Regional Santander Centro Agroturístico',
         },
       ],
@@ -615,12 +615,12 @@ export default {
         },
         {
           nombre: 'Lucenith Pinilla Moreno',
-          cargo: 'Desarrollador Fullstack Junior',
+          cargo: 'Desarrollador <i>full-stack</i> Junior',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'María Alejandra Vera Briceño',
-          cargo: 'Animadora y Productora Multimedia',
+          cargo: 'Animadora y productora multimedia',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -630,12 +630,12 @@ export default {
       autores: [
         {
           nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Validadora de Recursos Educativos Digitales',
+          cargo: 'Validadora de recursos educativos digitales',
           centro: '	Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
-          cargo: 'Evaluadora para Contenidos Inclusivos y Accesibles',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
