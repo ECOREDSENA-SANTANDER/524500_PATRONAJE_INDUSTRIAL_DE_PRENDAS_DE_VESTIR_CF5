@@ -11,8 +11,8 @@
       .col-6.col-md-5.col-lg-3
         img(src='@/assets/curso/temas/tema3/imagen1.svg')
       .col-sm-12.col-md-12.col-lg-9
-        p En el desarrollo del producto es necesario analizar las funciones del patronista;  se identifican necesidades como #[b el manejo y dominio básico por operación de confección o ensamble ] al momento de elaborar cualquier tipo de prenda o producto, si bien la destreza en el manejo y dominio de máquinas industriales de confección hace parte del desarrollo integral del patronista, es importante #[b tener claro que todo molde, patrón, plano o desarrollo de diseño que se realiza debe ir acompañado de una ruta u orden operacional ], ficha técnica de producción con especificaciones para el ensamble, las cuales van de la mano con el área de prototipado o muestreo, en donde es indispensable y fundamental el conocimiento de un patronista, motivo por el cual en el técnico se enfatiza en la importancia del conocimiento y desarrollo por operación de las prendas de vestir.
-        p Dentro del proceso y desarrollo del producto se identifican elementos como aditamentos, pies, guías y fólderes, los cuales permiten tener mejores resultados en el proceso de confección porque aumentan la eficiencia y calidad en las prendas, por ejemplo para el desarrollo de productos en las diversas operaciones que se requieran en la máquina plana, de manera frecuente se presenta el cambio de pies. 
+        p En el desarrollo del producto es necesario analizar las funciones del patronista;  se identifican necesidades como el manejo y dominio básico por operación de confección o ensamble al momento de elaborar cualquier tipo de prenda o producto, si bien la destreza en el manejo y dominio de máquinas industriales de confección hace parte del desarrollo integral del patronista, es importante tener claro que todo molde, patrón, plano o desarrollo de diseño que se realiza debe ir acompañado de una ruta u orden operacional, ficha técnica de producción con especificaciones para el ensamble, las cuales van de la mano con el área de prototipado o muestreo, en donde es indispensable y fundamental el conocimiento de un patronista, motivo por el cual en el técnico se enfatiza en la importancia del conocimiento y desarrollo por operación de las prendas de vestir.
+        p Dentro del proceso y desarrollo del producto se identifican elementos como aditamentos, pies, guías y fólderes, los cuales permiten tener mejores resultados en el proceso de confección porque aumentan la eficiencia y calidad en las prendas, por ejemplo, para el desarrollo de productos en las diversas operaciones que se requieran en la máquina plana, de manera frecuente se presenta el cambio de pies. 
 
 
     .row.align-items-center.justify-content-center.mb-4.mt-4
@@ -164,9 +164,9 @@
         .row.justify-content-center.align-items-center.my-lg-4
           .row.justify-content-center.align-items-center
             .col-sm-12.col-md-9.col-9
-              p.text-center Juntar las puntas y verificar simetría antes de pespuntear el cuello. 
+              p.text-center.mb-5 Juntar las puntas y verificar simetría antes de pespuntear el cuello. 
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-md-9.col-lg-9
+            .col-sm-12.col-md-6.col-lg-6
               img(src="@/assets/curso/temas/tema3/tarjeta2/imagen5.svg")
         .row.justify-content-center.align-items-center.my-lg-4
           .row.justify-content-center.align-items-center
@@ -277,14 +277,14 @@
             .col-sm-12.col-md-12.col-lg-7.borde-redondo(style='background-color: white')
               p.p-4.text-center Doblar a 1 cm y doblar nuevamente a 2 ½ cm, es decir, donde se hicieron las muescas en la parte de arriba del bolsillo. 
               .row.justify-content-center.align-items-center
-                .col-8
+                .col-6
                    img.mb-4(src="@/assets/curso/temas/tema3/tarjeta5/imagen1.svg")
         .row.justify-content-center.align-items-center.my-lg-4
           .row.justify-content-center.align-items-center
             .col-sm-12.col-md-12.col-lg-7.borde-redondo(style='background-color: white')
               p.p-4.text-center Hacer un pespunte al orillo del dobladillo de 2 ½ cm. 
               .row.justify-content-center.align-items-center
-                .col-8
+                .col-6
                   img.mb-4(src="@/assets/curso/temas/tema3/tarjeta5/imagen2.svg")
         .row.justify-content-center.align-items-center.my-lg-4
           .row.justify-content-center.align-items-center
@@ -340,9 +340,9 @@
           .row.justify-content-center.align-items-center
             .col-sm-12.col-md-12.col-lg-7.borde-redondo(style='background-color: white')
               .row.justify-content-center.align-items-center
-                .col-sm-12.col-md-5.col-lg-5
+                .col-sm-12.col-md-5.col-lg-4
                   p.ps-2 Colocar el puño forro con la vista hacia arriba. Colocar el puño vista hacia abajo, encima del puño forro.
-                .col-12.col-md-7.col-lg-7
+                .col-12.col-md-7.col-lg-8
                   img.mb-4(src="@/assets/curso/temas/tema3/tarjeta6/imagen3.svg")
     
     .row.mt-5
@@ -372,11 +372,11 @@
                 .col-11
                   img.mb-4(src="@/assets/curso/temas/tema3/tarjeta7/imagen2.svg")
     
-    .row.justify-content-center.align-items-center.mt-5
-      .col-sm-12.col-md-12.col-lg-6
+    .row.justify-content-center.align-items-center.mt-5.mb-5
+      .col-sm-12.col-md-12.col-lg-7
         h3 e. Preparación de espalda
         p.mt-5 Pegar marquilla y talla al centro de la almilla o canesú forro por el derecho de la tela.
-      .col-10.col-md-6.col-lg-6
+      .col-10.col-md-5.col-lg-5
         img(src="@/assets/curso/temas/tema3/imagen3.svg")
 
     .tarjeta.tarjeta--azul.color-acento-contenido.p-4
@@ -387,14 +387,14 @@
             .col-sm-12.col-md-12.col-lg-7.borde-redondo(style='background-color: white')
               p.mt-4.text-center Coser el pliegue o tablón de la espalda.
               .row.justify-content-center.align-items-center.mb-5
-                .col-10
+                .col-3
                   img(src="@/assets/curso/temas/tema3/tarjeta8/imagen1.svg")
         .row.justify-content-center.align-items-center.my-lg-4
           .row.justify-content-center.align-items-center  
             .col-sm-12.col-md-12.col-lg-7.borde-redondo(style='background-color: white')
                 p.mt-4.text-center Doblar las dos marcas de la espalda.
                 .row.justify-content-center.align-items-center.mb-5
-                  .col-10
+                  .col-4
                     img(src="@/assets/curso/temas/tema3/tarjeta8/imagen2.svg")
         .row.justify-content-center.align-items-center.my-lg-4
           .row.justify-content-center.align-items-center  
@@ -408,14 +408,14 @@
             .col-sm-12.col-md-12.col-lg-7.borde-redondo(style='background-color: white')
                 p.mt-4.text-center Colocar el forro de la pieza con la cara (derecho tela) hacia arriba, colocar la espalda con la cara (derecho tela) hacia arriba, colocar la pieza delantera cara (derecho tela hacia abajo). 
                 .row.justify-content-center.align-items-center.mb-5
-                  .col-9
+                  .col-8
                     img(src="@/assets/curso/temas/tema3/tarjeta8/imagen4.svg")
         .row.justify-content-center.align-items-center.my-lg-4
           .row.justify-content-center.align-items-center  
             .col-sm-12.col-md-12.col-lg-7.borde-redondo(style='background-color: white')
                 p.mt-4.text-center Juntar las tres piezas para que queden parejas. Unir con una costura dejando 1 cm de costura , rematando al inicio y al final.
                 .row.justify-content-center.align-items-center.mb-5
-                  .col-10
+                  .col-8
                     img(src="@/assets/curso/temas/tema3/tarjeta8/imagen5.svg")
         .row.justify-content-center.align-items-center.my-lg-4
           .row.justify-content-center.align-items-center  
@@ -454,28 +454,28 @@
               p.mt-4.text-center Doblar y planchar las portañuelas a 1 cm de ambos lados de las aletillas hacia el revés de la tela.
               .row.justify-content-center.align-items-center
                 .col-8
-                  img(src="@/assets/curso/temas/tema3/tarjeta9/imagen1.svg")
+                  img.mb-5.mt-5(src="@/assets/curso/temas/tema3/tarjeta9/imagen1.svg")
         .row.justify-content-center.align-items-center.my-lg-4
           .row.justify-content-center.align-items-center  
             .col-sm-12.col-md-12.col-lg-8.borde-redondo(style='background-color: white')
-                p.mt-4.text-center Coser primero manga y portañuela, por uno de los lados planchados pongan la manga con vista hacia abajo, y aletilla vista hacia abajo con una pestaña de 1 cm al pasar la costura por la “y” o marca.
+                p.text-center.p-3 Coser primero manga y portañuela, por uno de los lados planchados pongan la manga con vista hacia abajo, y aletilla vista hacia abajo con una pestaña de 1 cm al pasar la costura por la “y” o marca.
                 .row.justify-content-center.align-items-center
                   .col-10
                     img(src="@/assets/curso/temas/tema3/tarjeta9/imagen2.svg")
         .row.justify-content-center.align-items-center.my-lg-4
           .row.justify-content-center.align-items-center  
             .col-sm-12.col-md-12.col-lg-8.borde-redondo(style='background-color: white')
-                p.p-5.text-center Voltear la portañuela y la manga y hagan sobrecostura al filo de la aletilla, teniendo cuidado que la costura de abajo quede dentro del margen. 
+                p.text-center.ps-3.mt-2 Voltear la portañuela y la manga y hagan sobrecostura al filo de la aletilla, teniendo cuidado que la costura de abajo quede dentro del margen. 
                 .row.justify-content-center.align-items-center
                   .col-10
-                    img.mt-2(src="@/assets/curso/temas/tema3/tarjeta9/imagen3.svg")
+                    img.mb-4(src="@/assets/curso/temas/tema3/tarjeta9/imagen3.svg")
         .row.justify-content-center.align-items-center.my-lg-4
           .row.justify-content-center.align-items-center  
             .col-sm-12.col-md-12.col-lg-8.borde-redondo(style='background-color: white')
-                p.p-5.text-center Posicionar  la aletilla para formar el pico, de tal manera que se identifique aletilla sobre aletilla. Debe quedar el pico de aletilla sobre aletilla para hacer el pespunte. El pico de la portañuela se forma con los dedos, acomodando la parte de inferior con la parte superior se forma el pico. Pasar pespunte al filo u orillo del pico de la portañuela y continuar hasta los 3 cm hacia abajo. Cruzar la aletilla y terminar el pespunte donde empezaron. 
-                .row.justify-content-center.align-items-center.mb-5
+                p.text-center.ps-3.mt-2 Posicionar  la aletilla para formar el pico, de tal manera que se identifique aletilla sobre aletilla. Debe quedar el pico de aletilla sobre aletilla para hacer el pespunte. El pico de la portañuela se forma con los dedos, acomodando la parte de inferior con la parte superior se forma el pico. Pasar pespunte al filo u orillo del pico de la portañuela y continuar hasta los 3 cm hacia abajo. Cruzar la aletilla y terminar el pespunte donde empezaron. 
+                .row.justify-content-center.align-items-center
                   .col-12
-                    img(src="@/assets/curso/temas/tema3/tarjeta9/imagen4.svg")
+                    img.mb-4(src="@/assets/curso/temas/tema3/tarjeta9/imagen4.svg")
 
     
     .row.align-items-center.justify-content-center.mb-4.mt-5
@@ -492,7 +492,7 @@
               .row 
                 .col-sm-12.col-md-12.col-lg-9
                   .row
-                    a.boton.estilo100(href="https://youtu.be/Nu7OYw6XBj8" target="_blank")
+                    a.boton.estilo100(href="https://youtu.be/UEgH-oW8cGA" target="_blank")
                       span.text-bold(style="color: white") Complementario - 11 Portañuela camisa 1. 
                       i.fas.fa-video(style="color: white")
                   .row.mt-3
@@ -501,7 +501,7 @@
                       i.fas.fa-video(style="color: white")
                   .row.mt-3
                     a.boton.estilo100(href="https://youtu.be/2VL8Kkq1H-U" target="_blank")
-                      span.text-bold(style="color: white") Complementario – 13 Portañuela camisa 3.  
+                      span.text-bold(style="color: white") Complementario – 13 Portañuela blusa 3.  
                       i.fas.fa-video(style="color: white")
 
     
@@ -810,7 +810,7 @@
 
 
     .row.mb-4.mt-4
-      h3 a - Montaje de cierre, cremallera, corredera o  #[em zipper  ]  (aletilla y aletillón)
+      h3 a. Montaje de cierre, cremallera, corredera o  #[em zipper  ]  (aletilla y aletillón)
 
     .row.mb-5.mt-5.align-items-center.justify-content-center
       .col-sm-12.col-md-12.col-lg-12
@@ -882,7 +882,7 @@
                     i.fas.fa-video(style="color: white")
 
     .row.mb-4.mt-5
-      h3 c.	Bolsillo de ribete
+      h3 c.	Bolsillo de ribete sencillo
 
     .row.mb-5.mt-5.align-items-center.justify-content-center
       .col-sm-12.col-md-12.col-lg-12

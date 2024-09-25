@@ -146,48 +146,42 @@
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center.my-lg-4
           .col-10
-            .row
-              p En la página N°27 del manual (Línea femenina) se identifica el trazo de una manga sastre con una serie de cortes y traslados que reciben el nombre de una hoja ancha o cimera y una hoja angosta o bajera.
-            .row.justify-content-center.align-items-center
-              .col-8
-                .titulo-sexto.color-secundario
-                  h5 Figura 3.
-                  span
-                    | Manga sastre
-                img(src='@/assets/curso//temas/tema1/tarjeta1/imagen1.svg', alt='El patrón señala cortes y traslados de una manga sastre.')
+            p En la página N° 27 del manual (Línea femenina) se identifica el trazo de una manga sastre con una serie de cortes y traslados que reciben el nombre de una hoja ancha o cimera y una hoja angosta o bajera.
+          .row.justify-content-center.align-items-center
+            .col-6
+              .titulo-sexto.color-secundario
+                h5 Figura 3.
+                span
+                  | Manga sastre
+              img(src='@/assets/curso//temas/tema1/tarjeta1/imagen1.svg', alt='El patrón señala cortes y traslados de una manga sastre.')
         .row.justify-content-center.align-items-center.my-lg-4
           .col-10
-            .row
-              p En la página N°44 del manual (Línea femenina) se identifica el trazo de una manga sastre con una explicación diferente o con unos pasos diferentes al anterior, se debe tener en cuenta que el resultado sin importar los pasos o la técnica que se utilice al final va a ser el mismo, la única diferencia son las variaciones en los cortes que corresponden al diseño.
-            .row.justify-content-center.align-items-center
-              .col-8
-                .titulo-sexto.color-secundario
-                  h5 Figura 4.
-                  span
-                    | Chaqueta con corte de vuelo
-                img(src='@/assets/curso/temas/tema1/tarjeta1/imagen2.svg', alt='Se presenta un patrón de manga con trazos y diseño diferente al convencional.')
+            p En la página N° 44 del manual (Línea femenina) se identifica el trazo de una manga sastre con una explicación diferente o con unos pasos diferentes al anterior, se debe tener en cuenta que el resultado sin importar los pasos o la técnica que se utilice al final va a ser el mismo, la única diferencia son las variaciones en los cortes que corresponden al diseño.
+          .row.justify-content-center.align-items-center
+            .col-6
+              .titulo-sexto.color-secundario
+                h5 Figura 4.
+                span
+                  | Chaqueta con corte de vuelo
+              img(src='@/assets/curso/temas/tema1/tarjeta1/imagen2.svg', alt='Se presenta un patrón de manga con trazos y diseño diferente al convencional.')
         .row.justify-content-center.align-items-center.my-lg-4
           .col-10
-            .row
-              p En la página N°46 del manual (Línea femenina) se identifica otro tipo de trazo para el desarrollo de una manga sastre, es importante mencionar que en todas se identifica una hoja ancha y una hoja angosta que corresponde a cimera y bajera.
-            .row.justify-content-center.align-items-center
-              .col-8
-                .titulo-sexto.color-secundario
-                  h5 Figura 5.
-                  span
-                    | Chaqueta tipo sastre
-                img(src='@/assets/curso/temas/tema1/tarjeta1/imagen3.svg', alt='El patrón resalta un tipo de trazo diferente al convencional.')
+            p En la página N° 46 del manual (Línea femenina) se identifica otro tipo de trazo para el desarrollo de una manga sastre, es importante mencionar que en todas se identifica una hoja ancha y una hoja angosta que corresponde a cimera y bajera.
+          .row.justify-content-center.align-items-center
+            .col-6
+              .titulo-sexto.color-secundario
+                h5 Figura 5.
+                span
+                  | Chaqueta tipo sastre
+              img(src='@/assets/curso/temas/tema1/tarjeta1/imagen3.svg', alt='El patrón resalta un tipo de trazo diferente al convencional.')
         .row.justify-content-center.align-items-center.my-lg-4
-          .col-10
-            .row
-              p En las páginas N°74 y 77 del manual (Línea masculina) se identifica otro tipo de trazo o explicación para el desarrollo de la manga.
-            .row.justify-content-center.align-items-center
-              .col-8
-                .titulo-sexto.color-secundario
-                  h5 Figura 6.
-                  span
-                    | Base para chaqueta sastre
-                img(src='@/assets/curso/temas/tema1/tarjeta1/imagen4.svg', alt='SEl patrón resalta un trazo no convencional para una chaqueta tipo sastre.')
+          .col-11
+            p En las páginas N° 74 y 77 del manual (Línea masculina) se identifica otro tipo de trazo o explicación para el desarrollo de la manga.
+            .titulo-sexto.color-secundario
+              h5 Figura 6.
+              span
+                | Base para chaqueta sastre
+            img(src='@/assets/curso/temas/tema1/tarjeta1/imagen4.svg', alt='SEl patrón resalta un trazo no convencional para una chaqueta tipo sastre.')
 
     .row.mt-4.mb-4
       .col-12
@@ -222,7 +216,7 @@
       .col-10.col-md-4.col-lg-4
         img.p-3(src='@/assets/curso/temas/tema1/imagen11.png')
       .col-sm-12.col-md-12.col-lg-8
-        p.p-3.mt-4 Para el trazo de una chaqueta sastre, en las páginas 73 y 76 del manual de patronaje básico SENA se identifica una serie de sugerencias o especificaciones frente a las modificaciones en plano que se pueden trabajar para el desarrollo de una chaqueta sastre, se debe tener en cuenta que en masculino no solamente se trabaja por silueta sino por ocasión de uso, es decir, que cada prenda o cada diseño tiene unas especificaciones diferentes, a nivel general, se puede categorizar la finalidad de la prenda por:
+        p.p-3.mt-4 Para el trazo de una chaqueta sastre, en las páginas 73 y 76 del manual de patronaje básico SENA se identifica una serie de sugerencias o especificaciones frente a las modificaciones en plano que se pueden trabajar para el desarrollo de una chaqueta sastre, se debe tener en cuenta que en masculino no solamente se trabaja por silueta, sino por ocasión de uso, es decir, que cada prenda o cada diseño tiene unas especificaciones diferentes, a nivel general, se puede categorizar la finalidad de la prenda por:
         p.ps-3 #[b Características  ]
         .row
           .col-6
@@ -280,7 +274,7 @@
         img(src='@/assets/curso/temas/tema1/imagen13.svg', alt="La figura presenta un patrón de una chaqueta tipo sastre ajustada con dos botones.")
 
     .row.mt-4.mb-4
-      p Se presenta el siguiente video, donde se menciona el proceso para el análisis y la aplicación de la talla según el cuadro de tallas del manual y las respectivas formulas.  
+      p Se presenta el siguiente video, donde se menciona el proceso para el análisis y la aplicación de la talla según el cuadro de tallas del manual y las respectivas fórmulas.  
 
     .row.mt-4.mb-4
       figure
@@ -296,7 +290,7 @@
       .col-6.col-md-6.col-lg-4
         img.p-3(src='@/assets/curso/temas/tema1/imagen14.svg')
       .col-sm-12.col-md-12.col-lg-8
-        p En el desarrollo de #[b productos para la línea masculina] se identifican diferentes tipos de variaciones, dependiendo el costo de producción o línea de venta. En esta ocasión se va a realizar el desarrollo de una chaqueta #[em bomber], si bien la chaqueta #[em bomber] es una prenda informal su origen es reciente, pues #[b se creó en la industria militar para el uso de los pilotos de combate], con el fin de brindar en su funcionalidad la flexibilidad necesaria para los movimientos del cuerpo. Con su evolución  puede ser categorizada dentro de un rango de prendas casuales en las tres líneas (masculina, femenina e infantil). 
+        p En el desarrollo de productos para la línea masculina se identifican diferentes tipos de variaciones, dependiendo el costo de producción o línea de venta. En esta ocasión se va a realizar el desarrollo de una chaqueta #[em bomber], si bien la chaqueta #[em bomber] es una prenda informal su origen es reciente, pues se creó en la industria militar para el uso de los pilotos de combate, con el fin de brindar en su funcionalidad la flexibilidad necesaria para los movimientos del cuerpo. Con su evolución  puede ser categorizada dentro de un rango de prendas casuales en las tres líneas (masculina, femenina e infantil). 
         p El proceso de patronaje debe garantizar un alto nivel estándar de calidad en la empresa, lo cual incida en la satisfacción del cliente sin incurrir en altos costos de producción que disminuya las metas, afectando  la productividad y ganancias de la organización. El modelo #[em bomber] se concibe como una chaqueta ajustada y a nivel de la cintura; por eso en esta ocasión se trabajará el desarrollo de la chaqueta partiendo desde una base sastre y no desde una base normal.  
 
     .row.mt-4.mb-4
@@ -327,7 +321,7 @@
         p En el desarrollo de prendas femeninas se identifica gran variedad de productos, en el comercio existen diversos nombres para referirse a las prendas, la chaqueta sastre es una prenda formal utilizada en general por la mujer ejecutiva. Las características principales de una prenda sastre femenina corresponden al aplome, forma y ajuste sobre el cuerpo; sin embargo, se presenta diversidad en el modelo de chaqueta, variedad de largos, variación en cuellos, escotes, bolsillos, mangas, así de la misma manera, se nombran o categorizan como prendas sastre.
         p El siguiente análisis se hará en una chaqueta sastre clásica femenina, teniendo en cuenta una imagen conforme a lo mencionado anteriormente, es un solo modelo de este tipo de prenda, con el fin de tomar un referente visual para contextualizar y hacer el desarrollo del patronaje con las características mínimas que debe tener una prenda sastre superior.
         .cajon.color-primario.p-4
-          p Para el desarrollo de sastrería femenina a diferencia de la sastrería masculina, no se tiene una base o un básico específico, se trabaja sobre el mismo básico superior industrial desarrollado en ocasiones anteriores.
+          p Para el desarrollo de sastrería femenina, a diferencia de la sastrería masculina, no se tiene una base o un básico específico, se trabaja sobre el mismo básico superior industrial desarrollado en ocasiones anteriores.
 
     .row.mt-5.mb-5.align-items-center.justify-content-center(data-aos="zoom-in-left")
       p En la figura y el video presentados a continuación, se puede apreciar el desarrollo de la chaqueta sastre, con esto es posible realizar el  patronaje en otros modelos de chaquetas similares.
@@ -401,8 +395,8 @@
       .col-sm-12.col-md-12.col-lg-6
         #t_1_5.titulo-segundo.color-primario
           h2 1.5  Chaqueta cuello alto (traslados de pinza) 
-        p En el desarrollo de prendas, la exploración y experimentación en el traslado de pinzas, generación de cortes, eliminación de líneas o puntos claves de eje de rotación del cuerpo, #[b permite tener una visión más amplia sobre el desarrollo y la elaboración de la prenda]; este tipo de ejercicios fortalecen el conocimiento de un patronista aumentando su nivel de comprensión y desarrollo en la dificultad de la elaboración de las prendas.
-        p Con el fin de desarrollar el modelo en la siguiente imagen podrá analizar la prenda, y con el video obtendrá las herramientas necesarias para realizar el patronaje:
+        p En el desarrollo de prendas, la exploración y experimentación en el traslado de pinzas, generación de cortes, eliminación de líneas o puntos claves de eje de rotación del cuerpo, permite tener una visión más amplia sobre el desarrollo y la elaboración de la prenda; este tipo de ejercicios fortalecen el conocimiento de un patronista aumentando su nivel de comprensión y desarrollo en la dificultad de la elaboración de las prendas.
+        p Con el fin de desarrollar el modelo, en la siguiente imagen podrá analizar la prenda, y con el video obtendrá las herramientas necesarias para realizar el patronaje:
       .col-10.col-md-12.col-lg-6.mt-5 
         .titulo-sexto.color-secundario
           h5 Figura 13.
@@ -445,7 +439,7 @@
       .col-4.col-md-4.col-lg-4
         img(src='@/assets/curso/temas/tema1/imagen27.svg')
       .col-sm-12.col-md-8.col-lg-8
-        p El diseño clásico de la prenda desarrollada en Inglaterra dio gran relevancia a los sastres en los años 30; la sastrería convertida en arte posicionó #[b el traje de un caballero conformado por la chaqueta y el pantalón.] Como el pantalón sastre fue desarrollado en Inglaterra en donde el arte de la sastrería tuvo un auge, el traje masculino comprendido por la chaqueta y el pantalón se convirtió en la prenda de uso exclusivo de los caballeros en los años 30. #[b Su elaboración sigue siendo de especial cuidado y dificultad en su producción;]   los sastres italianos y franceses se sumaron para confeccionar este tipo de prenda, de acuerdo con el avance de la maquinaria y crecimiento de la industria hoy por hoy; los pantalones sastre masculinos siguen manteniendo sus características clásicas, proporcionando elegancia y distinción en el vestir de los hombres.
+        p El diseño clásico de la prenda desarrollada en Inglaterra dio gran relevancia a los sastres en los años 30; la sastrería convertida en arte posicionó el traje de un caballero conformado por la chaqueta y el pantalón. Como el pantalón sastre fue desarrollado en Inglaterra, en donde el arte de la sastrería tuvo un auge, el traje masculino comprendido por la chaqueta y el pantalón se convirtió en la prenda de uso exclusivo de los caballeros en los años 30. Su elaboración sigue siendo de especial cuidado y dificultad en su producción; los sastres italianos y franceses se sumaron para confeccionar este tipo de prenda, de acuerdo con el avance de la maquinaria y crecimiento de la industria hoy por hoy; los pantalones sastre masculinos siguen manteniendo sus características clásicas, proporcionando elegancia y distinción en el vestir de los hombres.
     p.p-4 A continuación, según las imágenes presentadas, se podrá tener una guía para desarrollar esta prenda:
     
     .tarjeta.tarjeta--azul.borde-recto.p-4(style='background-color: #D1BCFF')
@@ -482,7 +476,7 @@
         .row(style='background-color: #D1BCFF')
           .col-sm-12.col-md-12.col-lg-9
             .row.p-3
-              p El traje femenino concebido inicialmente por chaqueta y falda, conforme a los cambios sociales y culturales de la década de los años 60 dio paso a la normalización de su uso en las mujeres trabajadoras; hoy por hoy sigue siendo una prenda de uso en el trabajo de oficina, pero igualmente preferida por su estilo, elegancia y confort.
+              p El traje femenino concebido inicialmente por chaqueta y falda, conforme a los cambios sociales y culturales de la década de los años 60 dio paso a la normalización de su uso en las mujeres trabajadoras; hoy por hoy sigue siendo una prenda de uso en el trabajo de oficina, pero igualmente preferida por su estilo, elegancia y #[em confort].
               p Para la construcción del patronaje se puede apreciar la prenda en la siguiente imagen y se apoyará en el video para su desarrollo: 
         .col-11.position-relative.p-4
           .avatar
@@ -495,20 +489,20 @@
     .row.mt-4.mb-4
       figure
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/be_WSq_gwFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/jm1L1_A7ONQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     Separador
     .row.mb-4.mt-4
       #t_1_9.titulo-segundo.color-primario
-        h2 1.9 Generalidades de manga kimona y #[em ranglan]
+        h2 1.9 Generalidades de manga, kimona y #[em ranglan]
    
-    .row.mb-5.mt-5.align-items-center.justify-content-center(data-aos="zoom-in-left")
+    .row.mb-5.align-items-center.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-md-12.col-lg-12
         .row(style='background-color: #D1BCFF')
           .col-2
           .col-10
             .row
-              p.p-3 Para hacer el desarrollo de una manga kimona o una manga #[em ranglan] se debe tener en cuenta que este tipo de prendas eliminan el corte o el eje de rotación anatómico donde se unen las extremidades superiores (brazo) con el tronco, esto quiere decir que se debe generar cierto tipo de amplitudes o desahogos que permitan tener movimiento sin ningún tipo de inconveniente.
+              p.p-3 Para hacer el desarrollo de una manga, kimona o una manga #[em ranglan] se debe tener en cuenta que este tipo de prendas eliminan el corte o el eje de rotación anatómico donde se unen las extremidades superiores (brazo) con el tronco, esto quiere decir que se debe generar cierto tipo de amplitudes o desahogos que permitan tener movimiento sin ningún tipo de inconveniente.
         .col-1.position-relative
           .avatar
             img(src="@/assets/curso/temas/tema1/imagen30.svg").img120
@@ -525,7 +519,7 @@
               h5 Figura 17.
               span
                 | Transformación de sisas y mangas
-            img(src='@/assets/curso/temas/tema1/tarjeta3/imagen1.svg', alt='la figura presenta un patrón  en el que se ilustra sobre la transformación de sisa y mangas en kimona y ranglán.')
+            img(src='@/assets/curso/temas/tema1/tarjeta3/imagen1.png', alt='la figura presenta un patrón  en el que se ilustra sobre la transformación de sisa y mangas en kimona y ranglán.')
         .row.justify-content-center.align-items-center.my-lg-4
           h2.texto-morado-oscuro.text-center.mb-2 Manga Kimona
           .col-9
@@ -544,7 +538,7 @@
             .titulo-sexto.color-secundario
               h5 Figura 19.
               span
-                | Manga ranglán informal
+                | Manga <i>ranglan</i> informal
             img(src='@/assets/curso/temas/tema1/tarjeta3/imagen4.png', alt='La figura presenta patrones de manga ranglán informal.')
         .row.justify-content-center.align-items-center.my-lg-4
           h2.texto-morado-oscuro.text-center.mb-2 Manga #[em Ranglan] Formal
@@ -552,7 +546,7 @@
             .titulo-sexto.color-secundario
               h5 Figura 20.
               span
-                | Manga ranglán formal
+                | Manga <i>ranglan</i> formal
             img(src='@/assets/curso/temas/tema1/tarjeta3/imagen5.png', alt='La figura presenta patronaje de manga ranglán formal.')
 
     .row.mt-5.mb-5
@@ -564,14 +558,14 @@
     .subt(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
         img(src='@/assets/curso/temas/subt.svg', alt='')
-        h3.mb-0.ms-2 Interpretación de prendas con manga kimona y #[em ranglan] 
+        h3.mb-0.ms-2 Interpretación de prendas con manga, kimona y #[em ranglan] 
     p.mt-4.mb-4 Para interpretar estos dos tipos de manga se puede remitir al manual de patronaje SENA, páginas 48 a 50, además con las imágenes comprenderá sus similitudes y diferencias, y en el siguiente video podrá construirlas:
     
     .tarjeta.tarjeta--azul(style='background-color: #F3F9FF').p-4
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center.my-lg-4
           .col-9
-            h3.text-center Manga kimona y  #[em ranglan  ] 
+            h3.text-center Manga, kimona y  #[em ranglan  ] 
             .titulo-sexto.color-secundario
               h5 Figura 21.
               span
@@ -579,7 +573,7 @@
             img(src='@/assets/curso/temas/tema1/tarjeta4/imagen1.svg', alt='La imagen presenta fotografías de prendas con  tipo de manga kimona.')
         .row.justify-content-center.align-items-center.my-lg-4
           .col-9
-            h3.text-center(style="color: #673AB7") Manga kimona y #[em ranglan  ] 
+            h3.text-center(style="color: #673AB7") Manga, kimona y #[em ranglan  ] 
             .titulo-sexto.color-secundario
               h5 Figura 22.
               span
@@ -647,7 +641,7 @@
     .row.mt-4.mb-4  
       figure
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/hMlVK3iMj3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/5c_OWbiBHh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 </template>
 

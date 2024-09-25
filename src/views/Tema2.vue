@@ -44,7 +44,7 @@
         .row.justify-content-center.align-items-center.my-lg-4
           p.text-center #[b Egipto ]
           .col-sm-12.col-md-12.col-lg-8
-            p.text-center Zóster ceñidor era una banda larga de paño o lino que se ataban las mujeres en la cintura para resaltar su figura o feminidad. Fue signo de obscenidad, al rendirle culto al cuerpo exponían sus senos sin pudor, amamantaban y se cuidaban después de dar a luz para retornar a sus actividades sociales y deportivas.
+            p.text-center Zóster ceñidor era una banda larga de paño o lino que se ataban las mujeres en la cintura para resaltar su figura o feminidad. Fue signo de obscenidad, al rendirle culto al cuerpo, exponían sus senos sin pudor, amamantaban y se cuidaban después de dar a luz para retornar a sus actividades sociales y deportivas.
           .row.justify-content-center.align-items-center
             .col.sm-12.col-md-10.col-lg-6
               .titulo-sexto.color-secundario
@@ -122,7 +122,7 @@
             .col-4  
               p.text-center.borde-redondo(style='background-color: white') #[b Cónico: ]
           .row.align-items-center.justify-content-center.mb-2
-              p.text-center Generalmente este busto también es un poco desviado hacia los costados y levantado en su parte superior, requiere prendas que lo junten y realcen.
+              p.text-center Generalmente, este busto también es un poco desviado hacia los costados y levantado en su parte superior, requiere prendas que lo junten y realcen.
       .col-sm-12.col-md-12.col-lg-4
         .bloque-texto-c.color-acento-contenido.estilo300.p-2
           .row.align-items-center.justify-content-center
@@ -194,6 +194,10 @@
     
     h3.text-center.mb-4 Cómo colocarse el #[em brasier]
     .row.align-items-center.justify-content-center.borde-redondo.p-4(style='background-color: #E2E6FF')
+      .titulo-sexto.color-secundario
+        h5 Figura 30.
+        span
+          | Cómo colocarse el #[em brasier]
       .col-md-3.borde-redondo
         img(src='@/assets/curso/temas/tema2/tarjeta3/imagen1.svg', alt="La imagen describe el paso a paso de la manera como se debe poner un brasier.")
       .col-md-3.borde-redondo
@@ -379,7 +383,7 @@
               p.text-center.mb-0.mt-2 Prenda femenina que cubre del pecho hasta la cintura y perfila la forma del busto.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
-      p.text-center #[b Siluetas de #[em panties] ]
+      p.text-center #[b Siluetas de pantis]
       .col-lg-12
         SlyderF.custom.mb-5(columnas="col-lg-6 col-xl-4")
           .tarjeta.tarjeta--slyder1.p-4
@@ -419,7 +423,7 @@
           .d-flex.align-items-center.mb-1
             img(src='@/assets/curso/temas/subt.svg', alt='')
             h3.mb-0.ms-2 Descuentos para materiales con elongación para ropa interior
-        p.mt-3 Lo primero a tener en cuenta es que los patrones se trabajan por cuartos de medida si la prenda es simétrica para que sea más práctico el desarrollo de la moldería. El estándar de elongación que se trabaja para un panti en talla M es de 90% a 150%. Para el caso de industrializar la moldería se aplica un porcentaje de descuento del 125% y se descuenta en una cadera estándar talla M, de 96cm de contorno; la siguiente es manera de la aplicación de la fórmula:
+        p.mt-3 Lo primero a tener en cuenta es que los patrones se trabajan por cuartos de medida si la prenda es simétrica para que sea más práctico el desarrollo de la moldería. El estándar de elongación que se trabaja para un panti en talla M es de 90 % a 150 %. Para el caso de industrializar la moldería se aplica un porcentaje de descuento del 125 % y se descuenta en una cadera estándar talla M, de 96 cm de contorno; la siguiente es manera de la aplicación de la fórmula:
       .col-8.col-md-4.col-lg-4
         img(src='@/assets/curso/temas/tema2/imagen9.png')
 
@@ -440,14 +444,14 @@
             .col-auto.d-none.d-lg-block
               img(src='@/assets/curso/temas/tema2/flecha.svg')
             .col-sm-12.col-md-12.col-lg-4
-              p.mt-5 24 cm (cuarto de cadera o 1⁄4 del patrón) se le restan los 6 cm del resultado anterior y esto nos da el ancho del cuadro en el patrón, ya con los descuentos del porcentaje promedio para desarrollar el patrón específico base de todos los #[em panties] a desarrollar.
+              p.mt-5 24 cm (cuarto de cadera o 1⁄4 del patrón) se le restan los 6 cm del resultado anterior y esto nos da el ancho del cuadro en el patrón, ya con los descuentos del porcentaje promedio para desarrollar el patrón específico base de todos los pantis a desarrollar.
               .row 
                 .col-8.borde-redondo(style='background-color: #D1BCFF') 
                   p.p-2.mb-0.text-center #[b 24 cm – 6 cm = 18 cm ]
           .row.justify-content-center.align-items-center.my-lg-4
             .col-sm-12.col-md-12.col-lg-6.p-4
               p.mb-0 Medida para el cuarto del patrón con el descuento del porcentaje. Con esta medida se comenzarán a trazar los cuadrados con los que se desarrollarán los patrones en talla M.
-              p.mt-3 Los largos de los tiros son medidas estándar, teniendo en cuenta las siluetas de los #[em panties] a trabajar utilizándose las siguientes medidas:
+              p.mt-3 Los largos de los tiros son medidas estándar, teniendo en cuenta las siluetas de los pantis a trabajar utilizándose las siguientes medidas:
               .row
                 .col-8.borde-redondo(style='background-color: #D1BCFF') 
                   p.p-2.mb-0 #[b Largo de tiro talla M = 26 cm, como estándar de elongación se tiene el 20 % ]
@@ -469,7 +473,7 @@
                   span.mb-0 Cintura baja: 19 cm.
                 li.mb-0 
                   i.lista-ul__vineta.mb-0
-                  span.mb-0 Semidescaderado 17 cm  .   
+                  span.mb-0 Semidescaderado 17 cm.   
                 li.mb-0 
                   i.lista-ul__vineta.mb-0
                   span.mb-0 Descaderado 15 cm.
@@ -481,13 +485,6 @@
 
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    // no hay link del video en XD 
-
-    .row.mt-4.mb-4  
-      figure
-        .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    
     Separador
     .row
       #t_2_1.titulo-segundo.color-primario
@@ -773,7 +770,7 @@
     Separador
     .row.mt-4.mb-4
       #t_2_12.titulo-segundo.color-primario
-        h2 2.12 Interpretación de #[em panties]
+        h2 2.12 Interpretación de pantis
     p.mt-3 En el siguiente video encontrará ejercicios sobre la modificación de la base o panti clásico con la misma metodología y teoría trabajada de manera manual, ahora en el manejo del #[em software].
     
     .row.mt-4.mb-4
@@ -841,7 +838,7 @@
     Separador
     .row.mt-4.mb-4
       #t_2_17.titulo-segundo.color-primario
-        h2 2.17 Base superior de ropa interior
+        h2 2.17 #[em Brasier] altura de copa
     p.mt-3 En el siguiente video encontrará el trazo de #[em brasier] altura de copa con la entrega del paso a paso y metodología del trazo, y se hará la exploración desde el manejo del #[em software]; sin embrago, se podrá trabajar esta misma explicación de manera manual.
 
     .row.mt-4.mb-4

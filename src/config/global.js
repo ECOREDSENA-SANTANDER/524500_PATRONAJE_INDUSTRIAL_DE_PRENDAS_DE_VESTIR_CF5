@@ -272,7 +272,7 @@ export default {
     {
       tema: 'Instructivo del <em> software </em> Audaces',
       referencia:
-        'Manual audaces. (s/f). Scribd. Recuperado el 22 de junio de 2024, de https://www.scribd.com/document/367907998/Manual-Audaces',
+        'Manual audaces. (s/f). Scribd. Recuperado el 22 de junio de 2024.',
       tipo: 'Instructivo',
       link: 'https://www.scribd.com/document/367907998/Manual-Audaces ',
     },
@@ -573,7 +573,7 @@ export default {
         {
           nombre: 'Claudia Johana Gómez',
           cargo: 'Responsable de línea de producción',
-          centro: 'Regional Santander Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -590,18 +590,18 @@ export default {
           nombre: 'Natalia Andrea Bueno Pizarro',
           cargo: 'Diseñadora instruccional y evaluadora instruccional',
           centro:
-            'Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Julia Isabel Roberto',
           cargo: 'Diseñadora instruccional y evaluadora instruccional',
           centro:
-            'Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Carolina Jiménez Suescún',
           cargo: 'Evaluador instruccional',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -611,17 +611,17 @@ export default {
         {
           nombre: 'Julian Fernando Vanegas Vega',
           cargo: 'Diseñador web',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Lucenith Pinilla Moreno',
           cargo: 'Desarrollador <i>full-stack</i> Junior',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'María Alejandra Vera Briceño',
           cargo: 'Animadora y productora multimedia',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -631,12 +631,12 @@ export default {
         {
           nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Validadora de recursos educativos digitales',
-          centro: '	Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
