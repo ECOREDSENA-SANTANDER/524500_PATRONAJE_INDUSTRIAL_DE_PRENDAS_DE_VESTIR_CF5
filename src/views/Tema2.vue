@@ -676,8 +676,8 @@
       .col-6.col-md-3.col-lg-3
         img.mb-5(src='@/assets/curso/temas/tema2/imagen17.svg')
       .col-sm-12.col-md-9.col-lg-9
-        p.p-5 Para hacer el desarrollo del #[em brasier] se trabajan diferentes tipos de metodologías, en este caso se entrega el análisis y la interpretación general de un brallette, sacando pieza por pieza cada uno de los elementos.
-        p.ps-5 En el siguiente video encontrará el paso a paso con la explicación para el trazo manual del #[em brasier] brallete.
+        p.p-5 Para hacer el desarrollo del #[em brasier] se trabajan diferentes tipos de metodologías, en este caso se entrega el análisis y la interpretación general de un #[em bralette], sacando pieza por pieza cada uno de los elementos.
+        p.ps-5 En el siguiente video encontrará el paso a paso con la explicación para el trazo manual del #[em brasier bralette].
 
     .row.mt-4.mb-4
       figure

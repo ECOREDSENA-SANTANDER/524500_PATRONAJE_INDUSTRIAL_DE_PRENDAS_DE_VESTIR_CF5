@@ -14,25 +14,6 @@
         p En el desarrollo del producto es necesario analizar las funciones del patronista;  se identifican necesidades como el manejo y dominio básico por operación de confección o ensamble al momento de elaborar cualquier tipo de prenda o producto, si bien la destreza en el manejo y dominio de máquinas industriales de confección hace parte del desarrollo integral del patronista, es importante tener claro que todo molde, patrón, plano o desarrollo de diseño que se realiza debe ir acompañado de una ruta u orden operacional, ficha técnica de producción con especificaciones para el ensamble, las cuales van de la mano con el área de prototipado o muestreo, en donde es indispensable y fundamental el conocimiento de un patronista, motivo por el cual en el técnico se enfatiza en la importancia del conocimiento y desarrollo por operación de las prendas de vestir.
         p Dentro del proceso y desarrollo del producto se identifican elementos como aditamentos, pies, guías y fólderes, los cuales permiten tener mejores resultados en el proceso de confección porque aumentan la eficiencia y calidad en las prendas, por ejemplo, para el desarrollo de productos en las diversas operaciones que se requieran en la máquina plana, de manera frecuente se presenta el cambio de pies. 
 
-
-    .row.align-items-center.justify-content-center.mb-4.mt-4
-      .col-sm-12.col-md-9.col-lg-9
-        .tarjeta.actividad.p-3.color-acento-contenido
-          .row.justify-content-around.align-items-center      
-            .col-auto
-              figure
-                img(src='@/assets/curso/temas/tema2/pdf.png')
-            .col
-              .row.justify-content-center.align-items-center
-                .col.mb-3.mb-sm-0
-                  h3.mb-0.ps-5 Anexo.
-                  p.mb-0.ps-5 Tendencias
-                .col-sm-auto
-                  a.boton.boton--b.estilo100(href="https://youtube.com/embed/rF-2wRyxFm0" target="_blank")
-                    span(style="color: white") Ir al sitio
-                    i.fas.fa-video(style="color: white")
-
-
     Separador
     .row.align-items-center.justify-content-center.mt-5.mb-5
       .col-sm-12.col-md-12.col-lg-8

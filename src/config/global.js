@@ -33,7 +33,7 @@ export default {
           },
           {
             numero: '1.2',
-            titulo: 'Trazo de chaqueta tres botones',
+            titulo: 'Trazo de chaqueta sastre masculina',
             hash: 't_1_2',
           },
           {
@@ -69,7 +69,7 @@ export default {
           },
           {
             numero: '1.9',
-            titulo: 'Generalidades de manga kimona y <em>ranglan</em> ',
+            titulo: 'Generalidades de manga, kimona y <em>ranglan</em> ',
             hash: 't_1_9',
           },
           {
@@ -108,7 +108,7 @@ export default {
           },
           {
             numero: '2.4',
-            titulo: '<em>Boxer</em> encaje ',
+            titulo: 'Bóxer encaje ',
             hash: 't_2_4',
           },
           {
@@ -133,7 +133,7 @@ export default {
           },
           {
             numero: '2.9',
-            titulo: '<em>Brallette</em>',
+            titulo: '<em>Bralette</em>',
             hash: 't_2_9',
           },
           {
