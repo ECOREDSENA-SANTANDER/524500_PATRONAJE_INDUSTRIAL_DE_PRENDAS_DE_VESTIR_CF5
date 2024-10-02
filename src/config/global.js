@@ -108,7 +108,7 @@ export default {
           },
           {
             numero: '2.4',
-            titulo: 'Bóxer encaje ',
+            titulo: 'Bóxer con encaje ',
             hash: 't_2_4',
           },
           {

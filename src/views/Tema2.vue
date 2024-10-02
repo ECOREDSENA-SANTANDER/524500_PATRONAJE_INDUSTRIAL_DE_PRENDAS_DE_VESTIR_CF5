@@ -776,7 +776,7 @@
     .row.mt-4.mb-4
       figure
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/9geZEB4JOtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/CB7-e2oQlz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     Separador
     .row.mt-4.mb-4
